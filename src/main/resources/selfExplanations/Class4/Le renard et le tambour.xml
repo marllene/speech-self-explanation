@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours</title>
+        <subtitle>Le renard et le tambour</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Danielle Buselli</author>
+            <author>Anne-Marie Ragot</author>
+        </authors>
+        <date>02-12-2013</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>4</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">On raconte, dit Dimna, qu’un renard affamé passa près d’un boqueteau : à un arbre pendait un tambour ; le vent vint à souffler et les branches de l’arbre se mirent à frapper le tambour, qui résonna fortement.</p>
+        <p id="2">À ce bruit, le renard, dirigeant ses pas de ce côté, parvint jusqu’au tambour et, le voyant si volumineux, pensa que sa grosseur était en rapport avec la graisse et la viande qu’il devait renfermer ; et de tourner et de retourner le tambour, tant et si bien qu’il le creva.</p>
+        <p id="3">Constatant alors que l’objet était creux, il dit : - Je ne sais pas si les choses les plus viles ne sont pas celles qui ont le volume le plus énorme et qui font le plus de bruit.</p>
+    </body>
+</document>

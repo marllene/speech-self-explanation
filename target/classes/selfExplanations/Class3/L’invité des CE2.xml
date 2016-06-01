@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours Français</title>
+        <subtitle>L’invité des CE2</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Anne Marie Ragot</author>
+            <author>Danielle Buselli</author>
+        </authors>
+        <date>15-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>3</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">La classe de CE2 a invité un écrivain.</p>
+        <p id="2">Avec quoi écrivez-vous ? a demandé Jérôme.</p>
+        <p id="3">Avec un stylo, un bête stylo tout simple.</p>
+        <p id="4">D’ailleurs, je dois l’avoir sur moi. Attendez une seconde…</p>
+        <p id="5">Il a sorti de sa poche un énorme stylo-plume au capuchon tout cabossé qu’il a fait passer de main en main avant d’expliquer :</p>
+        <p id="6">Sur mon bureau, j’ai une petite bouteille. De loin, on dirait un encrier, mais c’est une bouteille à mots. Chaque soir, j’en remplis le réservoir de mon stylo.</p>
+        <p id="7">Je n’ai plus ensuite qu’à promener la plume sur le papier et les mots viennent s’y ranger tout seuls, comme de bons petits soldats.</p>
+        <p id="8">Vous ne faites jamais de brouillons ? a demandé Maxime.</p>
+        <p id="9">Bien sûr que si ! Certains mots ont mauvais caractère. Ils se font tirer l’oreille pour sortir.</p>
+        <p id="10">Il faut les poursuivre dans le dictionnaire, ou bien on les a sur le bout de la langue, comme un petit crabe qui vous pince l’orteil sans qu’on puisse lui faire lâcher prise.</p>
+        <p id="11">D’autres fois, ils font exprès surgir plein de fautes d’orthographe pour qu’on ne les reconnaisse pas.</p>
+        <p id="12">Ça ne vous arrive jamais, à vous, quand vous faites une rédaction ?</p>
+        <p id="13">Mais vous êtes écrivain, c’est votre métier, a dit Lucas.</p>
+        <p id="14">Justement, a dit M. Beloiseau. Quelquefois les mots se vengent, comme les lions avec le dompteur. Ils refusent de sauter à travers le cerceau, ils crachent et montrent les dents.</p>
+        <p id="15">Un jour, j’ai essayé d’écrire avec un ordinateur. J’avais l’impression de piloter une soucoupe volante. Les mots venaient à toute vitesse sur l’écran comme une pluie de météorites.</p>
+        <p id="16">Et puis, quand j’ai rallumé la machine le lendemain, pfuitt ! plus rien… L’écran était vide. Les mots s’étaient enfuis.</p>
+        <p id="17">Ils avaient profité de ma distraction pour reprendre leur liberté.</p>
+        <p id="18">Un de ces jours, il a ajouté, il faudra que j’envoie un de mes personnages à leur recherche. Ils doivent se balader quelque part dans l’espace.</p>
+        <p id="19">Une bonne fusée, un filet à papillons, et je les obligerai bien à revenir à la maison !</p>
+    </body>
+</document>

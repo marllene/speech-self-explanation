@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours</title>
+        <subtitle>D’un texte à l’autre</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Danielle Buselli</author>
+            <author>Anne-Marie Ragot</author>
+        </authors>
+        <date>14-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>5</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">Jean Henri Fabre (1823-1915) fut un grand entomologiste, un savant qui étudie les insectes.</p>
+        <p id="2">La renommée se fait surtout avec des légendes ; le conte a le pas sur l’histoire1 dans le domaine de l’animal comme dans le domaine de l’homme.</p>
+        <p id="3">Avec lui se conserveront les grossiers non-sens qui font le tissu de la fable : la Cigale souffrira toujours de la faim quand viendront les froids, bien qu’il n’y ait plus de Cigales en hiver ;</p>
+        <p id="4">elle demandera toujours l’aumône de quelques grains de blé, nourriture incompatible avec son délicat suçoir ; en suppliante, elle fera la quête de mouches et de vermisseaux, elle qui n’en mange jamais.</p>
+        <p id="5">La vérité rejette comme invention insensée ce que nous dit le fabuliste. Qu’il y ait parfois des relations entre la Cigale et la Fourmi, rien de plus certain ; seulement ces relations sont l’inverse de ce qu’on nous raconte.</p>
+        <p id="6">Elles ne viennent pas de l’initiative de la première, qui n’a jamais besoin du secours d’autrui pour vivre ; elles viennent de la seconde, rapace exploiteuse, accaparant dans ses greniers toute chose comestible.</p>
+        <p id="7">En aucun temps, la Cigale ne va crier famine aux portes des fourmilières, promettant loyalement de rendre intérêt et principal ; tout au contraire, c’est la Fourmi qui, pressée par la disette, implore la chanteuse.</p>
+        <p id="8">Que dis-je, implore ! Emprunter et rendre n’entrent pas dans les moeurs de la pillarde.</p>
+        <p id="9">Elle exploite la Cigale, effrontément la dévalise. Expliquons ce rapt, curieux point d’histoire non encore connu.</p>
+        <p id="10">En juillet, aux heures étouffantes de l’après-midi, lorsque la plèbe2 insecte, exténuée de soif, erre cherchant en vain à se désaltérer sur les fleurs fanées, taries, la Cigale se rit de la disette3 générale.</p>
+        <p id="11">Avec son rostre, fine vrille, elle met en perce une pièce de sa cave inépuisable.</p>
+        <p id="12">Établie, toujours chantant, sur un rameau d’arbuste, elle fore l’écorce ferme et lisse que gonfle une sève mûrie par le soleil.</p>
+        <p id="13">Le suçoir ayant plongé par le trou de bonde, délicieusement elle s’abreuve, immobile, recueillie, tout entière aux charmes du sirop et de la chanson.</p>
+        <p id="14">Surveillons-la quelque temps. Nous assisterons peut-être à des misères inattendues.</p>
+        <p id="15">De nombreux assoiffés rôdent, en effet ; ils découvrent le puits que trahit un suintement sur la margelle.</p>
+        <p id="16">Je vois s’empresser autour de la piqûre melliflue4 des Guêpes, des Mouches, des Forficules, des Sphex, des Pompiles, des Cétoines, […] les plus opiniâtres sont les Fourmis.</p>
+        <p id="17">J’en ai vu mordiller la Cigale au bout des pattes ; j’en ai surpris lui tirant le bout de l’aile, lui grimpant sur le dos, lui chatouillant l’antenne.</p>
+        <p id="18">Une audacieuse s’est permis, sous mes yeux, de lui saisir le suçoir, s’efforçant de l’extraire.</p>
+        <p id="19">On le voit : la réalité intervertit à fond les rôles imaginés par la fable.</p>
+    </body>
+</document>

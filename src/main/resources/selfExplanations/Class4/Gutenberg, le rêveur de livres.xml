@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours</title>
+        <subtitle>Gutenberg, le rêveur de livres</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Danielle Buselli</author>
+            <author>Anne-Marie Ragot</author>
+        </authors>
+        <date>02-12-2013</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>4</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="2"></pictures>
+    </meta>
+    <body>
+        <p id="1">Gutenberg est né vers 1400 à Mayence. En fait, c’est Johann Genzfleisch zur Laden zum Gutenberg qu’il s’appelle. Jean à la chair d’oie – au magasin – à la bonne montagne en bon français.</p>
+        <p id="2">Un nom surprenant, comme en portent les grandes familles en Rhénanie, puisque c’est le nom de leurs maisons. Plus elles en ont, plus leur nom est long.</p>
+        <p id="3">Huit, neuf, dix… Johann écoute les cloches des églises donner l’heure. À Saint- Victor, où il est écolier, une seule heure compte pour lui, celle de la sortie.</p>
+        <p id="4">Il faut dire qu’apprendre le latin n’a rien d’amusant. Comment d’ailleurs pourrait-on devenir savant avec une pauvre grammaire qui passe de main en main, un livre écorné où les déclinaisons ont été laborieusement recopiées ?</p>
+        <p id="5">Y a qu’à trouver un moyen pour que chacun ait le sien, pense l’enfant. Ce moyen, je le trouverai, quand je serai grand.</p>
+        <p id="6">Il sait aujourd’hui qu’une invention comme la sienne prend toute la vie. Il y pense le jour, il en rêve la nuit. Tant de choses à mettre au point ! Il faut graver les lettres sur des poinçons, frapper les lettres gravées sur des moules, couler le métal…</p>
+        <p id="7">Ah ! ce métal ! Un vrai casse-tête. Il n’a pas encore trouvé la bonne proportion d’antimoine qui durcira comme il faut l’alliage de plomb et d’étain. Si l’alliage est trop mou, les caractères s’écrasent sous la presse. Trop dur, les caractères abîment la presse.</p>
+        <p id="8">S’il n’y avait que le métal pour lui donner la migraine, ce ne serait rien. Mais il y a l’encre aussi ! Rien à voir avec l’encre à l’eau des copistes, un bouillon qui mouille le papier et interdit d’imprimer des deux côtés.</p>
+        <p id="9">Il faut qu’elle soit visqueuse, mais ni trop ni trop peu. Le pauvre Gutenberg s’arrache les cheveux en pensant à tout ce papier qu’il a déjà gâché…</p>
+        <p id="10">Il met à contribution ses amis orfèvres, fondeurs, menuisiers mais jamais il n’est satisfait.</p>
+        <p id="11">Enfin, Gutenberg, vous voulez quoi ? Faire aussi beau que les manuscrits, sinon personne n’en voudra. Il doit y avoir un moyen. On le trouvera ! </p>
+    </body>
+</document>

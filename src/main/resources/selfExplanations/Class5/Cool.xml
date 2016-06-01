@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Cool!</title>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Danielle Buselli</author>
+            <author>Anne-Marie Ragot</author>
+        </authors>
+        <date>02-12-2013</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>5</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+    </meta>
+    <body>
+        <p id="1">Robbie a été renversé par une voiture. Il est dans le coma : il ne peut ni bouger ni communiquer, presque comme s’il était mort. Par contre, il entend et comprend tout ce que l’on dit, mais personne ne peut le savoir.</p>
+        <p id="2">Papa est là. Il vient presque tous les jours, mais jamais en même temps que Mam. Ils ne font plus rien ensemble depuis qu’il a déménagé. Il me lit un livre. Le Bon Gros Géant encore une fois. C’est toujours Le BGG. J’aime bien cette histoire, mais pas à ce point là ! Je sais pourquoi il fait ça. Le docteur Fortaleine répète la même chose aux gens qui viennent me voir : d’après lui, n’importe quoi peut me réveiller n’importe quand – une voix que je reconnais, un livre ou une chanson que j’aime, une grande surprise. Il dit que chacun doit essayer de trouver le moyen de venir jusqu’à moi, et que l’une des meilleures façons est de me rafraîchir la mémoire.</p>
+        <p id="3">Papa est donc assis là, en train de me lire Le BGG. Je le connais par cœur, Pap, et ça ne me réveille pas. Je préférerais que tu me parles, comme avant. Mais il ne le fait pas. Il dit toujours exactement la même chose quand il arrive dans ma chambre :</p>
+        <p id="4">– Bonjour, Robbie. Alors, ça va ?</p>
+        <p id="5">C’est une question idiote, Pap. Puis il m’embrasse sur le front, me tapote la main, s’assied et commence à lire. Il ne me dit même pas qui a gagné au foot.</p>
+        <p id="6">Parfois il s’arrête de lire pendant quelques instants, et je l’entends respirer, je sens qu’il reste assis là, à me regarder. C’est ce qu’il fait en ce moment. Je le sais. Il rapproche sa chaise du lit. Il va me parler. Il va me dire quelque chose.</p>
+        <p id="7">– Robbie ? Robbie ? Tu es là ?</p>
+        <p id="8">Bien sûr que je suis là, où veux-tu que je sois ? Mon nez me démange, Pap. J’aimerais bien que tu le grattes pour moi. J’aimerais encore mieux pouvoir le gratter moi-même.</p>
+        <p id="9">– Dis quelque chose, Robbie. Bouge un doigt ou quelque chose. S’il te plaît. Je ne peux pas, Pap. Tu ne crois pas que je le ferais si je pouvais ?</p>
+        <p id="10">– Alors, je vais finir le chapitre, d’accord ?Il s’est encore rapproché de moi, je sens son souffle sur mon oreille.</p>
+        <p id="11">– C’est Le BGG, Robbie. Celui que tu préfères.</p>
+        <p id="12">Je sais, Papa. Ne me le lis pas, s’il te plaît. Parle-moi, plutôt. Mais je l’entends tourner les pages. Et il recommence. Je ne devrais pas me plaindre. Il le lit à merveille. Bon, c’est normal, il est comédien après tout. Quand il fait le Bon Gros Géant, il est vraiment cool, avec sa voix retentissante et drôle, comme un rire tonitruant.</p>
+    </body>
+</document>

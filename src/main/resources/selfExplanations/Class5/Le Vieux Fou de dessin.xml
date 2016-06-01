@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours</title>
+        <subtitle>Le Vieux Fou de dessin</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Danielle Buselli</author>
+            <author>Anne-Marie Ragot</author>
+        </authors>
+        <date>14-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>5</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">Tous les matins, Tojiro prend son panier de gâteaux de riz et part faire ses livraisons. Il fait à peine jour, quelques lampions éclairent faiblement les rues.</p>
+        <p id="2">Tojiro vend ses gâteaux aux passants, mais aussi au marchand de chapeaux de paille, aux belles dames de la maison du thé, au menuisier, au fabricant de tonneaux, au potier, au forgeron, au barbier, au teinturier, à l’écrivain public qui lui adresse toujours un coup d’oeil.</p>
+        <p id="3">Tojiro a perdu ses parents et vit chez son oncle et sa tante. L’oncle lui mène la vie dure.</p>
+        <p id="4">Quand il a fini sa tournée du matin, il revient chercher un second panier et ne rentre chez lui que lorsqu’il a vendu tous ses gâteaux.</p>
+        <p id="5">Bien souvent, c’est à la tombée de la nuit. Parmi les clients de Tojiro, il est un homme étrange.</p>
+        <p id="6">C’est un vieux bougon qui habite près d’un petit canal qui se jette dans la rivière Sumida.</p>
+        <p id="7">Il est très pauvre, il a mauvais caractère, porte des vêtements de médiocre facture, et pourtant il reçoit très souvent la visite de gens de haute condition, marchands des beaux quartiers ou nobles vêtus de soie.</p>
+        <p id="8">Les yeux de ce vieux monsieur ont, sous la broussaille blanche des sourcils, l’éclat noir et brillant de deux morceaux de charbon.</p>
+        <p id="9">Chaque fois qu’il aperçoit le garçon, il laisse échapper un petit rire comme une toux et l’interpelle d’une voix moqueuse : </p>
+        <p id="10">Alors moineau, qu’apportes-tu de beau aujourd’hui ?</p>
+        <p id="11">Des gâteaux de riz, Maître, répond toujours le garçon qui n’a jamais rien vendu d’autre.</p>
+        <p id="12">Des gâteaux de riz ? Eh bien, donne-moi donc un de tes gâteaux, moineau.</p>
+        <p id="13">Tojiro aimerait bien que le vieux monsieur arrête de le traiter de moineau : il vend des gâteaux à des samouraïs, on devrait quand même le prendre un peu plus au sérieux !</p>
+        <p id="14">Tojiro a fini par connaître le métier de ce drôle de personnage : c’est un artiste.</p>
+        <p id="15">Un grand artiste, précisent les gens du quartier.</p>
+        <p id="16">C’est un artiste, il n’y a rien d’autre à en dire, pense Tojiro, en s’approchant de la boutique du peintre. Or ce jour-là, un attroupement barre la rue.</p>
+    </body>
+</document>

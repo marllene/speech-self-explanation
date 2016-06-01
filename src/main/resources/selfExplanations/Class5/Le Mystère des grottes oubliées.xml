@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours</title>
+        <subtitle>Le Mystère des grottes oubliées</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Danielle Buselli</author>
+            <author>Anne-Marie Ragot</author>
+        </authors>
+        <date>14-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>5</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">L’abbé Breuil, spécialiste de la préhistoire, raconte la découverte de la grotte des Trois Frères.</p>
+        <p id="2">Écoutez ce qui arriva à Louis, le héros, à ses deux frères et à leur père la première fois qu’ils y sont entrés.</p>
+        <p id="3">C’était le vingt juillet 1914 et il faisait très chaud. Ils voulurent prendre un peu de repos en chemin et cherchèrent de l’ombre mais il n’y avait pas un arbre.</p>
+        <p id="4">Alors un paysan leur indiqua sur le coteau un  trou souffleur  d’où venait un air frais.</p>
+        <p id="5">Le comte ne se le fit pas dire deux fois. Arrivés au trou, ils y plongèrent la main et sentirent le souffle de la montagne. Ils se mirent aussitôt à l’élargir.</p>
+        <p id="6">Il s’enfonçait à pic dans la montagne. Un des gosses alla chercher une corde. Louis, le plus jeune, descendit le premier les dix-huit mètres.</p>
+        <p id="7">Dès qu’il vit les peintures, il revint vers la corde et ses frères Max et Jacques disparurent à leur tour dans les profondeurs.</p>
+        <p id="8">Le comte resta de garde en haut. Sa patience fut soumise à une rude épreuve car les enfants ne reparurent que quelques heures après ;</p>
+        <p id="9">et au lieu de sortir par le trou souffleur, ils couraient sur la plaine au-devant de leur père.</p>
+        <p id="10">Des centaines de fresques ! s’écria Louis.</p>
+    </body>
+</document>

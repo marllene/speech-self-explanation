@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>facettes FRANÇAIS</title>
+        <subtitle>Le Petit Poucet</subtitle>
+        <authors>
+            <author>Michèle Schöttke</author>
+            <author>François Tournaire</author>
+        </authors>
+        <date>15-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>3</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">Un soir, le Petit Poucet entendit ses parents parler de misère, d’enfants abandonnés.</p>
+        <p id="2">Pendant que ses frères dormaient, Poucet sortit remplir ses poches de petits cailloux blancs.</p>
+        <p id="3">Le lendemain matin, les parents et les sept enfants partirent couper du bois. Lorsqu’ils arrivèrent dans la forêt, Poucet laissa tomber ses cailloux l’un après l’autre sur le chemin.</p>
+        <p id="4">Alors que la famille arrivait au chantier, les parents disparurent derrière de gros troncs d’arbres. Peu après, les six frères de Poucet se mirent à pleurer.</p>
+        <p id="5">À l’instant même, Poucet consola tout le monde.</p>
+        <p id="6">Puis, grâce aux petits cailloux, les sept enfants retrouvèrent le chemin de leur maison.</p>
+    </body>
+</document>

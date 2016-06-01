@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours Français</title>
+        <subtitle>La chèvre de M. Seguin</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Anne Marie Ragot</author>
+            <author>Danielle Buselli</author>
+        </authors>
+        <date>15-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>3</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">M. Seguin n’avait jamais eu de bonheur avec ses chèvres.</p>
+        <p id="2">Il les perdait toutes de la même façon : un beau matin, elles cassaient leur corde, s’en allaient dans la montagne, et là-haut le loup les mangeait.</p>
+        <p id="3"> Ni les caresses de leur maître, ni la peur du loup, rien ne les retenait.</p>
+        <p id="4">C’était, paraît-il, des chèvres indépendantes, voulant à tout prix le grand air et la liberté.</p>
+        <p id="5">Cependant il ne se découragea pas, et, après avoir perdu six chèvres de la même manière, il en acheta une septième.</p>
+        <p id="6">Ah ! […] qu’elle était jolie la petite chèvre de M. Seguin ! Qu’elle était jolie avec ses yeux doux, sa barbiche de sous-officier1, ses sabots noirs et luisants, ses cornes zébrées et ses longs poils blancs qui lui faisaient une houppelande !</p>
+        <p id="7">Et puis, docile, caressante, se laissant traire sans bouger, sans mettre son pied dans l’écuelle. Un amour de petite chèvre…</p>
+        <p id="8">M. Seguin avait derrière sa maison un clos entouré d’aubépines. C’est là qu’il mit sa nouvelle pensionnaire.</p>
+        <p id="9">Il l’attacha à un pieu3, au plus bel endroit du pré, en ayant soin de lui laisser beaucoup de corde, et de temps en temps il venait voir si elle était bien.</p>
+        <p id="10">La chèvre se trouvait très heureuse, et broutait l’herbe de si bon coeur que M. Seguin était ravi.</p>
+        <p id="11">Enfin, pensait le pauvre homme, en voilà une qui ne s’ennuiera pas chez moi !</p>
+        <p id="12">M. Seguin se trompait, sa chèvre s’ennuya.</p>
+    </body>
+</document>

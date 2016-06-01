@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours</title>
+        <subtitle>Mardi</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Danielle Buselli</author>
+            <author>Anne-Marie Ragot</author>
+        </authors>
+        <date>14-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>5</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="0"></pictures>
+    </meta>
+    <body>
+        <p id="1">Maman ne veut plus me passer un timbre tous les jours.</p>
+        <p id="2">Mais mon père m‛a donné cinquante francs.</p>
+        <p id="3">On est allé tous les deux à pied au village par la corniche. C‛était long avec la chaleur.</p>
+        <p id="4">À la poste j‛ai acheté vingt timbres d‛un coup.</p>
+        <p id="5">Comme ça je dépenserai tout mon argent seulement pour toi, pour t‛écrire.</p>
+        <p id="6">J‛espère que j‛aurai ta première lettre demain et que tu pourras venir en août</p>
+    </body>
+</document>

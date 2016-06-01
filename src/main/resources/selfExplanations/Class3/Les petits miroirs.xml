@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours Français</title>
+        <subtitle>Les petits miroirs</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Anne Marie Ragot</author>
+            <author>Danielle Buselli</author>
+        </authors>
+        <date>15-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>3</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">Vous n’allez pas en classe ici ?</p>
+        <p id="2">Quelle idée ! Nous avons nos animaux.</p>
+        <p id="3">Vous êtes combien ?</p>
+        <p id="4">Nous sommes dix frères, pour l’instant. Voici les autres qui arrivent. Je suis Léon, j’ai un cheval, il nous apprend l’arithmétique.</p>
+        <p id="5">Voici Claude, il a un corbeau, il nous apprend la géographie.</p>
+        <p id="6">Voici Eugène, il a un castor, il nous apprend l’architecture.</p>
+        <p id="7">Voici Pierrot, il a un perroquet, il nous apprend la musique.</p>
+        <p id="8">Voici Gabriel, il a un renard, il nous apprend l’agriculture.</p>
+        <p id="9">Voici Barnabé, il a un lézard, il nous apprend le dessin. Voici Nicolas, il a un écureuil, il nous apprend la gymnastique.</p>
+        <p id="10">Voici Clotaire, il a un pingouin, il nous apprend l’histoire universelle. Voici Gilbert, il a un phoque, il nous apprend la natation.</p>
+        <p id="11">Voici Auguste, il a un essaim d’abeilles, elles nous apprennent la géométrie.</p>
+    </body>
+</document>

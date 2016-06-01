@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Contes</title>
+        <author>Yves-Marie CLÉMENT</author>
+        <date>01-01-1996</date>
+        <source>Hatier</source>
+        <complexity_level>3</complexity_level>
+    </meta>
+    <body>
+        <p id="0">Un singe passa par là. Le jaguar lui sauta dessus et l’assomma d’un bon coup de patte.</p>
+		<p id="1">À midi, il apporta son gibier au village. Il entra dans la case de Talokoe et s’adressa en ces mots à son fils</p>
+		<p id="2">Alima, fils d’homme, si tu manges ce singe, tu deviendras aussi agile que lui !</p>
+		<p id="3">Alima dévora le singe.</p>
+		<p id="4">Trois jours plus tard, comme convenu, le jaguar revint au village pour toucher son salaire.</p>
+		<p id="5">Il trouva le chef Talokoe assis devant sa case en train de se lamenter.</p>
+		<p id="6">Ta ruse n’a pas marché longtemps, jaguar. Depuis trois jours, Alima n’a rien voulu manger !</p>
+		<p id="7">Gêné, le jaguar s’en retourna dans la forêt. Toute la nuit, il veilla, tapi sur une branche audessus de la rivière.</p>
+		<p id="9">Un serpent anaconda passa par là. Le jaguar sauta dessus et l’assomma d’un bon coup de patte.</p>
+		<p id="10">À midi, il rapporta son gibier au village. Il entra dans la case de Talokoe et s’adressa en ces mots à son fils.</p>
+		<p id="11">Alima, fils d’homme, si tu manges ce serpent, tu deviendras aussi puissant que lui !</p>
+		<p id="12">Alima dévora le serpent.</p>
+		
+  </body>
+</document>

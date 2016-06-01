@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours Français</title>
+        <subtitle>Le mouchoir magique</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Anne Marie Ragot</author>
+            <author>Danielle Buselli</author>
+        </authors>
+        <date>15-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>3</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="5"></pictures>
+    </meta>
+    <body>
+
+        <p id="1">Recouvre d’abord la table d’un napperon.</p>
+        <p id="2">Puis étale le mouchoir sur la table : dispose l’un des coins face aux spectateurs, l’autre face à toi. Attention, le tour commence !</p>
+        <p id="3">D’abord, demande à un spectateur de poser une pièce au milieu du mouchoir.</p>
+        <p id="4">Puis replie la pointe du mouchoir qui est de ton côté au-dessus de la pointe qui est du côté des spectateurs.</p>
+        <p id="5">La pièce est cachée dans le mouchoir.</p>
+        <p id="6">Ensuite, roule le mouchoir vers l’avant. Laisse dépasser les deux coins superposés.</p>
+        <p id="7">Enfin prends le coin inférieur (celui qui est contre la table) dans la main droite et le coin supérieur dans la main gauche.</p>
+        <p id="8">Tire très fort pour dérouler le mouchoir. Pffft ! La pièce a disparu. (Elle est maintenant sous le mouchoir.)</p>
+        <p id="9">Ramasse-la habilement en même temps que le mouchoir et range tes instruments de magie.</p>
+    </body>
+</document>

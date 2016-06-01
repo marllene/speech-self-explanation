@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours</title>
+        <subtitle>Lettres</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Danielle Buselli</author>
+            <author>Anne-Marie Ragot</author>
+        </authors>
+        <date>14-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>5</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">Mme de Sévigné annonce à M. de Coulanges le mariage de la grande Mademoiselle, cousine du Roi. Le Roi s’opposera à ce mariage, qui aura lieu bien plus tard, en secret.</p>
+        <p id="2">À Paris, ce lundi 15 décembre 1670</p>
+        <p id="3">Je m’en vais vous mander1 la chose la plus étonnante, la plus surprenante, la plus merveilleuse, la plus miraculeuse, la plus triomphante, la plus étourdissante, la plus inouïe, la plus singulière, la plus extraordinaire, la plus incroyable, la plus imprévue, la plus grande, la plus petite, la plus rare, la plus commune, la plus éclatante, la plus secrète jusqu’aujourd’hui, la plus brillante, la plus digne d’envie.</p>
+        <p id="4">Je ne puis me résoudre à la dire ; devinez-la : je vous la donne en trois.</p>
+        <p id="5">Jetez-vous votre langue aux chiens ?</p>
+        <p id="6">Eh bien ! il faut donc vous la dire : M. de Lauzun épouse dimanche au Louvre, devinez qui ?</p>
+        <p id="7">Je vous le donne en quatre, je vous le donne en dix ; je vous le donne en cent.</p>
+    </body>
+</document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Magellan</title>
+        <subtitle>La naissance du royaume de France</subtitle>
+        <authors>
+            <author>Dominique Guimbretière</author>
+            <author>Françoise Martinetti</author>
+            <author>Laurence Rolinet</author>
+            <authou>Sophie Le Callennec</authou>
+        </authors>
+        <date>02-12-2013</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>4</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">Les Francs étaient divisés en tribus. Au Ve siècle, Clovis les rassembla sous son autorité et devint leur roi. Ensemble, ils conquirent presque toute la Gaule et fondèrent le Royaume franc. En 496, Clovis se fit baptiser : désormais, la royauté française et l’Église étaient alliées.</p>
+        <p id="2">Après la mort de Clovis, les Francs ne parvinrent pas à rester unis : les rois mérovingiens s’affrontèrent dans des guerres incessantes. Ils perdirent tout pouvoir au profit des maires de palais.</p>
+        <p id="3">En 751, le maire du palais, Pépin le Bref, prit le pouvoir et se fit sacrer roi. Il restaura l’autorité royale. Son fils, Charlemagne, conquit un vaste territoire et fut sacré empereur par le pape en l’an 800.</p>
+        <p id="4">Il confia différentes régions à des seigneurs qui, en échange, devaient y faire régner son autorité : appliquer les lois, organiser l’armée et collecter les impôts.</p>
+        <p id="5">Après Charlemagne, ses descendants, les Carolingiens, se divisèrent. Ils partagèrent son empire en plusieurs royaumes, dont la Francie occidentale (la France).</p>
+        <p id="6">Ils perdirent leur autorité sur les seigneurs. Ces derniers collectaient désormais les impôts pour leur propre compte.</p>
+        <p id="7">Ils recrutaient leurs propres armées et défendaient eux-mêmes leurs terres contre les guerres. Les habitants ne reconnurent bientôt plus que leur autorité.</p>
+        <p id="8">Au xe siècle, le roi était considéré comme le plus grand des seigneurs, mais il n’exerçait son autorité que sur ses propres terres : le domaine royal. En 987, les seigneurs choisirent l’un d’eux, Hugues Capet, comme nouveau roi.</p>
+    </body>
+</document>

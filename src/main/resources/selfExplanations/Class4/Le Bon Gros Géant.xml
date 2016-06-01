@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours</title>
+        <subtitle>Le Bon Gros Géant</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Danielle Buselli</author>
+            <author>Anne-Marie Ragot</author>
+        </authors>
+        <date>02-12-2013</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>4</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">Que peut manger un Bon Gros Géant végétarien gourmand ?</p>
+        <p id="2">– Mais si vous ne mangez pas des gens comme les autres géants, de quoi vous nourrissez-vous donc ? demanda Sophie.</p>
+        <p id="3">– C’est un problème bigrement difficultueux dans la région, répondit le BGG, dans ce pays miteux et calaminable, les bonnes mangeailles comme les ananas ou les six trouilles ne poussent pas. Et d’ailleurs, rien ne pousse ici sauf une espèce de légume tout à fait nauséabeurk. On l’appelle le schnockombre.</p>
+        <p id="4">– Le schnockombre ! s’exclama Sophie, mais ça n’existe pas ! [...]</p>
+        <p id="5">– Alors, sous prétexte qu’on n’a jamais vu quelque chose avec ses deux petits quinquets, on croit que cette chose-là n’existe pas ? Et qu’est-ce que tu fais dans ce cas du grand bizarro sauteur d’Écosse ?</p>
+        <p id="6">– Je vous demande pardon ?</p>
+        <p id="7">– Et du frisabosse ?</p>
+        <p id="8">– Qu’est-ce que c’est que ça ? demanda Sophie.</p>
+        <p id="9">– Ce sont des animaux tout à fait courants, assura le BGG d’un air très supérieur, et maintenant je vais te montrer ce qu’est un schnockombre.</p>
+        <p id="10">Le BGG ouvrit la porte d’un grand buffet massif et retira la chose la plus étrange d’aspect que Sophie eût jamais contemplée.</p>
+        <p id="11">C’était long d’environ la moitié de la taille d’un homme mais beaucoup plus épais. La chose avait la circonférence d’un landau1. Elle était noire avec de longues bandes blanches sur toute sa longueur, et des protubérances2 rugueuses couvraient sa surface.</p>
+        <p id="12">– Voilà le répugnable schnockombre, s’exclama le BGG en le brandissant devant lui, je le mélipende ! je le vilprise ! je l’exécrabouille ! Mais puisque je refuse d’avaler des hommes de terre, comme les autres géants, je dois passer ma vie à m’empiffrer de ces schnockombres nauséabeurks. Sinon, il ne me resterait bientôt plus que la peau et les mots.</p>
+        <p id="13">– Vous voulez dire la peau et les os ? rectifia Sophie.</p>
+        <p id="14">– Je sais bien qu’on dit les os, répliqua le BGG, mais comprends donc s’il te plaît que je n’y peux rien si parfois je m’entortille un peu en parlant.</p>
+    </body>
+</document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Facettes</title>
+        <subtitle>Le roman de l’écriture</subtitle>
+        <authors>
+            <author>Michèle Schöttke</author>
+            <author>François Tournaire</author>
+        </authors>
+        <date>02-12-2013</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>4</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="4"></pictures>
+    </meta>
+    <body>
+        <p id="1">Il y a 6 000 ans environ, c’est chez les Sumériens (en Irak) que débute le fabuleux roman de l’écriture. Parallèlement, en Égypte, se développent d’autres systèmes d’écriture. Tous sont constitués de pictogrammes, de dessins stylisés, de signes…</p>
+        <p id="2">Les Grecs dans l’Antiquité, puis les moines au Moyen Age, et enfi n Gutenberg au XVe siècle ont fait évoluer les systèmes d’écriture. D’autres vont naître. Le roman de l’écriture sera toujours en marche.</p>
+        <p id="3">Les scribes écrivent sur des tablettes d’argile mouillée. Ils utilisent des calames taillés dans du roseau, à bouts différents, et des stylets. Après les tracés, on fait sécher ou cuire les tablettes.</p>
+        <p id="4">Les Sumériens écrivent pour :compter du bétail, des sacs de blé, des outils ;représenter des idées ;raconter la légende du roi Gilgamesh.</p>
+        <p id="5">Les Égyptiens utilisent un système graphique composé d’éléments stylisés, de signes qui peuvent tout exprimer : les hiéroglyphes. Les scribes écrivent sur de longs rouleaux de papyrus, avec des peintures rouges et noires.</p>
+        <p id="6">Sur ces rouleaux, les objets précieux ou ordinaires, les parois des temples et des tombeaux, on lit :</p>
+        <p id="7">les événements importants dans l’ordre chronologique (vie et mort des rois, batailles, crues du Nil…) ;</p>
+        <p id="8">des traités de médecine, d’agriculture, d’astronomie, de magie… ;</p>
+        <p id="9">des légendes, des romans, des poèmes…</p>
+        <p id="10">Environ 500 ans avant J.-C., les Grecs mettent au point un système d’écriture composé de 24 signes. L’alphabet est simple, pratique. Il révolutionne l’écriture.</p>
+        <p id="11">Durant mille ans, ce sont les moines qui écrivent et copient des manuscrits en latin. Ils utilisent le parchemin en peaux tannées.</p>
+        <p id="12">Le parchemin permet de plier, de coudre, d’empiler les feuillets et de les relier pour fabriquer les premiers livres. Il permet aussi d’utiliser des plumes d’oies taillées selon le support et la graphie souhaitée.</p>
+        <p id="13">Il faudra plus de cinq siècles pour passer de l’imprimerie manuelle inventée par Gutenberg vers 1450, à la rotative automatique, aux longues bobines de papier, à l’impression recto-verso et en couleur, à la photocomposition, à l’invention des techniques informatiques qui permettent aujourd’hui d’écrire et de lire l’événement au moment où il se produit, sur la toile et les médias.</p>
+    </body>
+</document>

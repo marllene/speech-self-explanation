@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours Français</title>
+        <subtitle>L’estomac</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Anne Marie Ragot</author>
+            <author>Danielle Buselli</author>
+        </authors>
+        <date>15-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>3</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">Par une belle et froide nuit d’hiver, la lune se pavanait dans le ciel, toute ronde et éclatante.</p>
+        <p id="2">Elle disait aux étoiles qui voulaient bien l’entendre :</p>
+        <p id="3">Regardez comme je suis la plus grande et la plus belle, plus grande même que l’astre du jour.</p>
+        <p id="4">Un tout petit lac, perdu au milieu des immensités, l’entendit :</p>
+        <p id="5">Pas du tout ! Mais pas du tout ! répliqua-t-il. Regarde-moi et tu verras qui est le plus grand !</p>
+        <p id="6">La lune se pencha et alla se refléter dans les eaux dormantes.</p>
+        <p id="7">Tu vois bien que je suis le plus grand, dit le lac. Regarde, je te contiens tout entière.</p>
+        <p id="8">Leur dispute fit grand bruit et réveilla une petite souris qui sommeillait sur la rive. Elle ouvrit l’oeil, regarda la lune et le lac, et s’exclama :</p>
+        <p id="9">Le plus grand de tous, c’est mon oeil, puisqu’il contient à la fois le lac, la lune et toutes les étoiles du ciel.</p>
+        <p id="10">Mais un oiseau de nuit qui rôdait dans les parages aperçut la petite souris. Il plongea sur elle et l’avala.</p>
+        <p id="11">Moi seul sais bien qui est le plus grand de tous : c’est mon estomac… car il contient à la fois la souris, son oeil, le lac, la lune et toutes les étoiles du ciel.</p>
+    </body>
+</document>

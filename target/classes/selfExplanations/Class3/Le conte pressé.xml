@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours Français</title>
+        <subtitle>Le conte pressé</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Anne Marie Ragot</author>
+            <author>Danielle Buselli</author>
+        </authors>
+        <date>15-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>3</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">Il mangeait ses mots et ne reprenait jamais son souffle, son histoire il la racontait si vite qu’au bout d’une minute à peine il était déjà à la fin :</p>
+        <p id="2">… ils vécurent heureux et eurent beaucoup d’enfants.</p>
+        <p id="3">C’était l’histoire d’un jeune homme qui disait à son père :</p>
+        <p id="4">Papa, je m’ennuie à la maison. Je m’en vais faire le tour du monde, comme ça je connaîtrai un tas de choses nouvelles, j’aurai beaucoup d’aventures, et je ne reviendrai qu’après avoir fait fortune…</p>
+        <p id="5">À partir de là commençaient les fascinantes aventures du jeune homme.</p>
+        <p id="6">Mais lui, le conte pressé, il les racontait ainsi :</p>
+        <p id="7">D’accord, le rev’là parti… Alors il rencontra les bandits… Grande bagarre, pim, poum, pam !…</p>
+        <p id="8">Puis les sept génies du mal… Même topo… Mais paf, prisonnier, enchaîné… Le château de l’Ogre, bien sûr… Par chance la fille de l’Ogre… bref la vieille histoire d’amour… elle l’aidait à s’enfuir…</p>
+        <p id="9">Le rev’là encore par monts et par vaux, etc., etc. Allons bon, le royaume du terrible Tyran bleu !… Duel final, pim, poum, pam !…</p>
+        <p id="10">Comment ça finit, pas difficile à deviner… or et bijoux à gogo… Retour triomphal au bercail, la richesse, mariage avec la fille, ils vécurent heureux, etc.</p>
+        <p id="11">Dès qu’il avait fini, le conte sautait dans un taxi pour aller répéter son histoire dans une autre maison.</p>
+    </body>
+</document>

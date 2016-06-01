@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours</title>
+        <subtitle>Jeanne Barret, la première femme à faire le tour du monde</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Danielle Buselli</author>
+            <author>Anne-Marie Ragot</author>
+        </authors>
+        <date>14-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>5</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">Une ordonnance royale du 15 avril 1689 interdit aux femmes d’embarquer à bord d’un bateau.</p>
+        <p id="2">En 1766, Jeanne Barret décide de devenir Jean Barré, valet du botaniste Philibert Commerson, pour pouvoir s’embarquer sur l’Étoile, navire d’exploration commandé par Bougainville.</p>
+        <p id="3">J’ai hier vérifi é à bord de l’Étoile un fait assez singulier.</p>
+        <p id="4">Depuis quelques temps, il courait un bruit dans les deux navires que le domestique de M. de Commerson, nommé Barré, était une femme.</p>
+        <p id="5">Sa structure, son attention scrupuleuse à ne jamais changer de linge, ni faire aucune nécessité d’aucune sorte devant qui que ce soit, le son de sa voix, son menton sans barbe, plusieurs autres indices avaient fait naitre et accréditaient le soupçon…</p>
+        <p id="6">J’ai donc été obligé, suivant les ordonnances du roi, de m’assurer si le soupçon était fondé. Barré, les larmes aux yeux, m’a avoué qu’elle était fille, qu’elle avait trompé son maitre en se présentant à lui sous des habits d’homme à Rochefort au moment de son embarquement, qu’elle avait déjà servi comme laquais un Genevois à Paris, que née en Bourgogne et orpheline, la perte d’un procès l’avait réduite dans la misère et qu’elle avait pris le parti de déguiser son sexe, qu’au reste, elle savait en s’embarquant qu’il était question de faire le tour du monde, et que ce voyage avait piqué sa curiosité…</p>
+        <p id="7">J’admire sa résolution, d’autant plus qu’elle s’est toujours conduite avec la plus scrupuleuse sagesse. J’ai pris des mesures pour qu’elle n’essuyât rien de désagréable. La Cour, je crois, lui pardonnera l’infraction aux ordonnances.</p>
+        <p id="8">L’exemple ne saurait être contagieux.</p>
+    </body>
+</document>

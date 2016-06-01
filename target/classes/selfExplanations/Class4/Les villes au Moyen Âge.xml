@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Magellan</title>
+        <subtitle>Les villes au Moyen Âge</subtitle>
+        <authors>
+            <author>Dominique Guimbretière</author>
+            <author>Françoise Martinetti</author>
+            <author>Laurence Rolinet</author>
+            <authou>Sophie Le Callennec</authou>
+        </authors>
+        <date>02-12-2013</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>4</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">Les villes du Moyen Âge étaient plus petites que celles d’aujourd’hui, avec des rues étroites, des maisons serrées. Pour les protéger des attaques, les habitants construisaient autour des remparts.</p>
+        <p id="2">La population augmentant, les habitations étaient serrées, les ruelles étroites. Quand il n’y avait plus de place dans la ville, les habitants s’installaient à côté, dans les faubourgs.</p>
+        <p id="3">Parfois, on bâtissait alors de nouveaux remparts. Certaines cités, comme Paris, sont devenues de grandes villes.</p>
+        <p id="4">Les villes étaient animées : la foule se pressait dans les rues, aux fontaines, dans les boutiques et les ateliers des artisans (cordonniers, tailleurs…), sur les marchés, devant l’église ou la cathédrale.</p>
+        <p id="5">Certaines villes, comme Troyes, organisaient de grandes foires qui attiraient des marchands venus de toute l’Europe pour acheter des tissus, des fourrures et des épices.</p>
+        <p id="6">D’autres, comme Paris, possédaient une université et devenaient des lieux de rencontre entre les étudiants et les penseurs.</p>
+        <p id="7">Au début du Moyen Âge, les seigneurs contrôlaient les villes bâties sur leurs domaines. Les bourgeois n’avaient pas plus de liberté que les paysans.</p>
+        <p id="8">Comme eux, ils payaient des impôts et des taxes. Mais au cours du Moyen Âge, les bourgeois ont gagné leur indépendance en se révoltant contre les seigneurs ou en négociant avec eux des chartes.</p>
+        <p id="9">Ils ont élu certains d’entre eux pour gouverner la ville, rendre la justice et collecter les impôts. Ils ont construit les premiers hôtels de ville.</p>
+    </body>
+</document>

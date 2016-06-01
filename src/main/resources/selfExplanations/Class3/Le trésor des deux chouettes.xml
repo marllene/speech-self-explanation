@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours Français</title>
+        <subtitle>Le trésor des deux chouettes</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Anne Marie Ragot</author>
+            <author>Danielle Buselli</author>
+        </authors>
+        <date>15-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>3</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="0"></pictures>
+    </meta>
+    <body>
+        <p id="1">Très répandue en France, la chouette chevêche aime les régions parsemées d’arbres et de haies.</p>
+        <p id="2">C’est un oiseau plutôt petit, au plumage gris foncé tirant sur le roux pour le dos et plus clair pour le ventre, entièrement parsemé de taches blanchâtres.</p>
+        <p id="3">Ses yeux ronds, très rapprochés, à l’iris jaune lui donnent un regard étrange.</p>
+        <p id="4">Elle loge dans les greniers, les granges ou le creux d’un arbre.</p>
+        <p id="5">Bien qu’elle se déplace aussi bien le jour que la nuit, elle préfère chasser à l’aube et au crépuscule insectes, rongeurs et batraciens.</p>
+        <p id="6">Au Moyen Âge on en fait la compagne maléfique des sorcières.</p>
+        <p id="7">Accusée à tort de porter malheur, à cause sans doute de son regard fixe et de son bec crochu qui lui donnent l’air cruel et des bruits presqu’humains, ronflements, chuintements, qu’elle émet, la chouette a été décimée.</p>
+        <p id="8">L’espèce est aujourd’hui protégée, car elle détruit souris et campagnols qui s’attaquent aux récoltes.</p>
+    </body>
+</document>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours</title>
+        <subtitle>UN REPAS EN INDE</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Danielle Buselli</author>
+            <author>Anne-Marie Ragot</author>
+        </authors>
+        <date>14-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>5</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">En Inde, on mange avec les doigts, mais pas n’importe lesquels.</p>
+        <p id="2">Seule la main droite est considérée comme pure.</p>
+        <p id="3">Les Indiens n’utilisent pas d’accessoires comme la cuillère ou la fourchette, et il est interdit d’attraper quoi que ce soit de la main gauche pour s’aider un peu !</p>
+        <p id="4">On roule donc une boulette de riz avec le pouce, l’index et le majeur de la main droite, on la trempe dans la sauce et on la porte à la bouche en faisant bien attention que cela ne dégouline pas dans la main.</p>
+        <p id="5">Dans nos pays, les mariages sont fêtés par des repas pantagruéliques.</p>
+        <p id="6">En Inde aussi on mange plus que d’ordinaire, mais les hindous ne mangent que des légumes, des fruits, des céréales, et pas de viande.</p>
+        <p id="7">À côté des lentilles, les pois chiches, la noix de coco, les légumes et bien sûr le riz composent la base de l’alimentation végétarienne.</p>
+    </body>
+</document>

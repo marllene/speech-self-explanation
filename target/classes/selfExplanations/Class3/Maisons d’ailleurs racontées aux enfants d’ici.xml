@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours Français</title>
+        <subtitle>Maisons d’ailleurs racontées aux enfants d’ici</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Anne Marie Ragot</author>
+            <author>Danielle Buselli</author>
+        </authors>
+        <date>15-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>3</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">Une cuisine dedans ou dehors ? Une chambre pour les filles, une autre pour les garçons ?</p>
+        <p id="2">Une niche pour un chien, un cochon nain dans le jardin ? Dis-moi où tu habites et je te dirai qui tu es, car il existe autant de maisons dans le monde que de façons de vivre.</p>
+        <p id="3">Sur l’eau</p>
+        <p id="4">Au cours de la préhistoire, dans les zones humides et marécageuses, les hommes bâtirent des cités lacustres, des villes construites sur l’eau grâce à des pilotis.</p>
+        <p id="5">Les pilotis sont des grands pieux en bois sur lesquels on construisait des maisons.</p>
+        <p id="6">Elles étaient ainsi surélevées, donc protégées de l’eau.</p>
+        <p id="7">Les habitants se sentaient plus en sécurité au milieu d’un lac ou d’un fleuve que sur la terre ferme : impossible pour des ours et des lions des cavernes de les atteindre, de même que pour des attaquants.</p>
+        <p id="8">Et c’était bien pratique pour pêcher du poisson.</p>
+        <p id="9">Le bois présente un autre avantage : il flotte… Un peu au sud du Venezuela, ceux qui vivent près du plus grand fleuve du monde, l’Amazone, ont appris à se méfier de ses crues gigantesques.</p>
+        <p id="10">Les constructions peuvent s’adapter en se transformant en bateaux, car les pilotis se mettent à flotter…</p>
+        <p id="11">Il fallait y penser !</p>
+    </body>
+</document>

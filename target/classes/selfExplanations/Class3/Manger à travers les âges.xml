@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours Français</title>
+        <subtitle>Manger à travers les âges</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Anne Marie Ragot</author>
+            <author>Danielle Buselli</author>
+        </authors>
+        <date>15-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>3</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="2"></pictures>
+    </meta>
+    <body>
+        <p id="1">Les tout premiers hommes passaient beaucoup de temps à chercher leur nourriture. L’agriculture n’existait pas et la cueillette de céréales et de divers végétaux sauvages était la base de leur alimentation.</p>
+        <p id="2">La chasse leur apportait la viande qui constituait l’autre grande partie de cette alimentation. Jusqu’à la découverte du feu, il y a cinq cent mille ans, elle était consommée crue.</p>
+        <p id="3">La découverte de la cuisson des aliments a marqué la naissance de la cuisine et favorisé l’habitude de prendre les repas en commun.</p>
+        <p id="4">Il y a dix mille ans, l’agriculture est apparue. La culture de céréales et de plantes qui existaient à l’état sauvage et l’élevage de boeufs, de moutons et de porcs se sont généralisés peu à peu.</p>
+        <p id="5">Une autre façon de se nourrir s’est développée, donnant beaucoup de place aux céréales.</p>
+        <p id="6">La fabrication du fromage a été découverte par hasard : pour conserver le lait, on l’a mis dans une outre faite de l’estomac d’un veau, la caillette ; le lait a caillé, séché ; le fromage était né !</p>
+        <p id="7">Au Moyen Âge, la nourriture était très variée ; les préparations à base de blé, de seigle et d’orge cuisinées en soupes se sont répandues ;</p>
+        <p id="8">; on aimait aussi beaucoup les goûts forts, les épices, les saveurs acides (obtenues par le vinaigre) et sucrées (obtenues par le miel, les dattes, les raisins secs), les gibiers et les pâtés, et certains fromages qui se conservaient longtemps.</p>
+        <p id="9">Les aliments que nous connaissons sont apparus peu à peu : le chocolat, le thé, le sucre, le café ont été rapportés à la Renaissance par les marins, mais seuls les nobles en consommaient.</p>
+        <p id="10">Au xxe siècle la façon de se nourrir a encore bien évolué : les conserves envahissent les rayons des magasins, les surgelés sont inventés ainsi que les plats fabriqués en usine.</p>
+        <p id="11">Certains se demandent même si l’on arrivera à ne se nourrir que de pilules un jour ! Qu’en penses-tu ?</p>
+    </body>
+</document>

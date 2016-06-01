@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours</title>
+        <subtitle>La mystérieuse bibliothécaire</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Danielle Buselli</author>
+            <author>Anne-Marie Ragot</author>
+        </authors>
+        <date>02-12-2013</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>4</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="0"></pictures>
+    </meta>
+    <body>
+        <p id="1">Mlle Charlotte avait déménagé la bibliothèque dans le grenier de l’hôtel de ville. Elle ne travaillait plus dans un placard à balais mais dans un vaste salon de lecture. C’était drôlement plus chouette !</p>
+        <p id="2">D’abord, les livres n’étaient pas tous debout en rang d’oignons sur des rayons. Il y en avait partout. En piles élevées ou pêle-mêle dans chaque coin et recoin de cet immense grenier plein de cachettes.</p>
+        <p id="3">Mlle Charlotte n’avait pas classé les livres par sujet ou par ordre alphabétique comme le font toujours les bibliothécaires. Elle les avait réunis par couleur, les rouges ensemble, les verts ailleurs. Léo pensa encore une fois qu’elle n’était peut-être pas une vraie bibliothécaire, avec un diplôme et tout.</p>
+        <p id="4">En cherchant l’Enigme des fraises Tagada, il fit une étrange découverte. Un lit très étroit et très long était installé dans un coin perdu, tout au fond du grenier.</p>
+        <p id="5">Sous le lit, il trouva une grande boite où sommeillaient sept grosses araignées velues, roulées en boule dans leur toile. Un peu plus loin, il buta contre un bol de petites graines et surprit une souris courant vers son trou creusé dans le mur.</p>
+    </body>
+</document>

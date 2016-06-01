@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours Français</title>
+        <subtitle>Les contes de la Folie Méricourt</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Anne Marie Ragot</author>
+            <author>Danielle Buselli</author>
+        </authors>
+        <date>15-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>3</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+
+        <p id="1">On a cru, tout d’abord, que c’était une vieille dame comme les autres, un peu plus mal coiffée peut-être, mal habillée aussi, mais ce n’est pas un crime, avec des cheveux dans les yeux, une dent sur le devant, une bosse par derrière, et une goutte au bout du nez, qui ne voulait jamais tomber</p>
+        <p id="2">Elle habitait une petite maison avec un petit jardin autour et des grilles donnant sur la rue.</p>
+        <p id="3">Et puis voilà qu’un jour un taxi a disparu, un beau taxi tout bleu avec un chauffeur russe.</p>
+        <p id="4">On a cherché partout, mais on n’a retrouvé ni l’homme ni la voiture.</p>
+        <p id="5">Mais le lendemain matin, tout le monde a vu derrière les grilles, dans le jardin de la sorcière, une belle citrouille toute bleue, et tout près d’elle un gros rat rouge, assis sur son derrière, avec une belle casquette bien coquette, posée sur sa tête.</p>
+        <p id="6">Alors il y a des gens qui ont fait des réflexions.</p>
+        <p id="7">Deux jours après, c’est une couturière qui a disparu : une couturière comme au bon vieux temps, qui travaillait à domicile, reprisant les chaussettes, recousant les boutons, faisant même des robes neuves quand on lui fournissait les tissus.</p>
+        <p id="8">Et voilà qu’elle a disparu !</p>
+        <p id="9">Cette fois, on l’a cherchée pendant toute une semaine.</p>
+        <p id="10">Et puis, la semaine passée, on s’est aperçu que la sorcière avait depuis peu une araignée mauve qui lui tissait des rideaux sur ses fenêtres, de beaux rideaux brodés</p>
+        <p id="11">Et puis le mois suivant, ce sont trois personnes qui ont disparu : un agent de police, une femme de ménage et un employé du métro.</p>
+        <p id="12">On a fouillé toutes les caves, inspecté tous les égouts, et on n’a rien trouvé du tout.</p>
+        <p id="13">Mais dans le jardin de la sorcière, il y a trois animaux nouveaux : un chien vert, une chatte rouge et une taupe orange, et celle-ci ne cessait de creuser des galeries.</p>
+        <p id="14">Alors, les gens de mon quartier se sont mis en colère.</p>
+    </body>
+</document>

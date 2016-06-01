@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours</title>
+        <subtitle>Harry Potter à l’école des sorciers</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Danielle Buselli</author>
+            <author>Anne-Marie Ragot</author>
+        </authors>
+        <date>14-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>5</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">Dubois, le capitaine de l’équipe de Gryffondor, explique les règles du Quidditch à Harry Potter en lui montrant les différentes balles utilisées dans le jeu.</p>
+        <p id="2">Chaque équipe comporte sept joueurs. Trois d’entre eux sont des poursuiveurs.</p>
+        <p id="3">Trois poursuiveurs, répéta Harry pendant que Dubois prenait une grosse balle rouge vif de la taille d’un ballon de football.</p>
+        <p id="4">Cette balle s’appelle un Souafle, expliqua Dubois. Les poursuiveurs se passent le Souafle les uns aux autres et essayent de le lancer à travers l’un des cercles d’or pour marquer un but.</p>
+        <p id="5">Chaque but rapporte dix points. Tu me suis ?</p>
+        <p id="6">Le poursuiveur lance le Souafle à travers les cercles pour marquer un but.</p>
+        <p id="7">Dans chaque équipe, il y a un autre joueur qu’on appelle le gardien. Le gardien de l’équipe des Gryffondor, c’est moi.</p>
+        <p id="8">Mon rôle consiste à tourner autour des poteaux pour empêcher les poursuiveurs de l’équipe adverse de marquer.</p>
+        <p id="9">Trois poursuiveurs, un gardien, dit Harry qui était bien décidé à faire entrer tout ça dans sa tête. Et ils jouent avec le Souafle. D’accord, compris. Et les autres balles, elles servent à quoi ?</p>
+        <p id="10">Je vais te montrer. Tiens, prends ça.</p>
+        <p id="11">Dubois lui tendit une batte un peu plus courte que les battes de base-ball.</p>
+        <p id="12">Je vais t’expliquer ce que sont les Cognards.</p>
+        <p id="13">Il se pencha et libéra l’un des Cognards. Aussitôt, la balle noire sauta en l’air et se précipita droit sur la figure de Harry.</p>
+        <p id="14">Celui-ci donna un grand coup de batte dans la balle pour l’empêcher de lui casser le nez et l’envoya zigzaguer un peu plus loin. La balle revint alors à la charge et s’attaqua cette fois à Dubois qui plongea sur elle et parvint à l’immobiliser sur le sol.</p>
+        <p id="15">Tu vois ? dit Dubois, le souffle court en forçant le Cognard à rentrer dans sa boîte.</p>
+        <p id="16">Les Cognards essayent de frapper les joueurs pour les faire tomber de leur balai. C’est pourquoi chaque équipe comporte également deux batteurs.</p>
+        <p id="17">Leur rôle consiste à protéger les joueurs de leur équipe des attaques des Cognards et à les renvoyer dans le camp d’en face. Ça va, tu as tout compris ?</p>
+        <p id="18">Trois poursuiveurs essayent de marquer des buts avec le Souafle. Le gardien protège les buts, les batteurs tiennent les Cognards à distance, récita Harry.</p>
+        <p id="19">Dubois prit dans la boîte la quatrième et dernière balle.</p>
+        <p id="20">Ceci, dit Dubois, c’est le Vif d’or, la plus importante des quatre balles.</p>
+        <p id="21">Elle est très difficile à attraper à cause de sa rapidité et de sa petite taille. C’est l’attrapeur qui est chargé de la saisir.</p>
+    </body>
+</document>

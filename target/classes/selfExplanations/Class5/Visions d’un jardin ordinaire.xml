@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours</title>
+        <subtitle>Visions d’un jardin ordinaire</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Danielle Buselli</author>
+            <author>Anne-Marie Ragot</author>
+        </authors>
+        <date>14-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>5</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">La capucine allonge le bras au-dessus de l’eau. Elle veut danser, danser avec sa soeur noire, dans le soleil. La nuit seule interrompt la danse, la danse de la capucine.</p>
+        <p id="2">Les ombres et les reflets se sont cachés dans la boue du bassin, noyés dans la vase avec les carpes et les tanches, celles qui dansent bouche ouverte, avec les vers.</p>
+        <p id="3">Quand le soleil brillera, la capucine aura grandi. Long bras, de nouveau allongé, ombre caresse à la surface de l’eau.</p>
+        <p id="4">La capucine vit un seul été, un seul amour, un seul été. Elle danse. Elle grandit.</p>
+        <p id="5">Elle embrasse toute la surface de l’eau. Elle touche son ombre. Elle touche le fond.</p>
+        <p id="6">Un jour, les tanches l’effleurent du dos et du museau. La capucine danse, danse encore avec les poissons.</p>
+        <p id="7">Elle danse, danse au fond de l’eau, jusqu’à ce que la glace, mais ce n’est plus un reflet, la glace la serre très fort, la glace lui coupe les bras, l’envoie rejoindre son ombre.</p>
+    </body>
+</document>

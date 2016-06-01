@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours Français</title>
+        <subtitle>Maxime des neiges</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Anne Marie Ragot</author>
+            <author>Danielle Buselli</author>
+        </authors>
+        <date>15-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>3</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">Quel bonheur d’enfoncer les pieds dans la neige ! Je ne résiste pas au plaisir de la goûter. Brrr ! Toujours aussi froide.</p>
+        <p id="2">Eh, Marion, regarde ! s’écrie Nicolas.</p>
+        <p id="3">Il écarte les bras et se laisse tomber en arrière. Puis il se relève avec précaution.</p>
+        <p id="4">Tu as vu ? Je suis le roi de l’empreinte !</p>
+        <p id="5">En guise de réponse, je lui lance une boule de neige. Il réplique aussitôt. Je me lance à sa poursuite quand Valériane arrive.</p>
+        <p id="6">Vous avez commencé sans moi ! s’exclame-t-elle en se mêlant à la bataille sans attendre.</p>
+        <p id="7">Un quart d’heure plus tard, rouge et essoufflée, je propose :</p>
+        <p id="8">On commence un bonhomme de neige ?</p>
+        <p id="9">Hou hou, Marion !</p>
+        <p id="10">Maxime, notre voisin, m’appelle depuis la fenêtre de sa chambre. Il se déplace en fauteuil roulant parce qu’il a les jambes paralysées.</p>
+        <p id="11">Maxime a emménagé à côté de chez nous à la rentrée scolaire et nous sommes vite devenus amis.</p>
+    </body>
+</document>

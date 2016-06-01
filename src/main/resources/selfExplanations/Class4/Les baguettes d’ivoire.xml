@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours</title>
+        <subtitle>Les baguettes d’ivoire</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Danielle Buselli</author>
+            <author>Anne-Marie Ragot</author>
+        </authors>
+        <date>02-12-2013</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>4</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">Dans l’ancienne Chine, un jeune prince décida de se faire fabriquer une paire de baguettes pour sa table avec un morceau d’ivoire d’une grande valeur.</p>
+        <p id="2"> Lorsque le roi son père, qui était un sage, en eut connaissance, il vint le trouver et lui expliqua la chose suivante</p>
+        <p id="3">Tu ne dois pas faire cela, car cette luxueuse paire de baguettes risque de te mener à ta perte !</p>
+        <p id="4">Le jeune prince était interloqué. Il ne savait pas si son père était sérieux ou s’il se moquait de lui.</p>
+        <p id="5">Mais le père poursuivit ainsi : Lorsque tu auras tes baguettes d’ivoire, tu te rendras compte qu’elles ne vont pas avec la vaisselle de grès que nous avons à notre table.</p>
+        <p id="6">Il te faudra des tasses et des bols de jade. Or, les bols de jade et les baguettes d’ivoire ne souffrent pas des mets grossiers.</p>
+        <p id="7">Il te faudra des queues d’éléphants et des foetus de léopards. Un homme qui a goûté des queues d’éléphant et des foetus de léopards ne peut se contenter d’habits de chanvre et d’une demeure simple et austère.</p>
+        <p id="8">Il te faudra des costumes de soie et des palais magnifiques. Pour cela, tu saigneras les finances du royaume, et tes désirs n’auront pas de fin.</p>
+        <p id="9">Tu aboutiras bien vite à une vie de luxe et de dépenses qui ne connaîtra plus de bornes. Le malheur s’abattra sur nos paysans et le royaume sombrera dans la ruine et la désolation.</p>
+        <p id="10">… Car tes baguettes d’ivoire sont comme la mince fissure dans la muraille, qui finit par détruire tout l’édifice.</p>
+        <p id="11">Le jeune prince oublia son caprice et devint plus tard un monarque réputé pour sa grande sagesse.</p>
+    </body>
+</document>

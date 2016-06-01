@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours Français</title>
+        <subtitle>Les fées</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Anne Marie Ragot</author>
+            <author>Danielle Buselli</author>
+        </authors>
+        <date>15-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>3</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">Il était une fois une veuve qui avait deux filles : l’ainée lui ressemblait si fort d’humeur et de visage que, qui la voyait, voyait la mère.</p>
+        <p id="2">Elles étaient toutes deux si désagréables et si orgueilleuses qu’on ne pouvait vivre avec elles.</p>
+        <p id="3">La cadette, qui était le vrai portrait de son père pour la douceur et l’honnêteté, était avec cela une des plus belles filles qu’on eût su voir.</p>
+        <p id="4">Comme on aime naturellement son semblable, cette mère était folle de sa fille ainée et, en même temps, avait une aversion effroyable pour la cadette.</p>
+        <p id="5">Elle la faisait manger à la cuisine et travailler sans cesse.</p>
+        <p id="6">Il fallait, entre autres choses, que cette pauvre enfant allât, deux fois le jour, puiser de l’eau à une grande demi-lieue du logis, et qu’elle en rapportât plein une grande cruche.</p>
+        <p id="7">Un jour qu’elle était à cette fontaine, il vint à elle une pauvre femme qui la pria de lui donner à boire.</p>
+        <p id="8">Oui-da, ma bonne mère, dit cette belle fille ; et, rinçant aussitôt sa cruche, elle puisa de l’eau au plus bel endroit de la fontaine et la lui présenta, soutenant toujours la cruche, afin qu’elle bût plus aisément</p>
+        <p id="9">La bonne femme, ayant bu, lui dit : Vous êtes si belle, si bonne et si honnête que je ne puis m’empêcher de vous faire un don</p>
+        <p id="10">car c’était une fée qui avait pris la forme d’une pauvre femme de village, pour voir jusqu’où irait l’honnêteté de cette jeune fille.</p>
+        <p id="11">Je vous donne pour don, poursuivit la fée, qu’à chaque parole que vous direz, il vous sortira de la bouche ou une fleur, ou une pierre précieuse.</p>
+    </body>
+</document>

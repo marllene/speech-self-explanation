@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Magellan</title>
+        <subtitle>Le développement du royaume de France</subtitle>
+        <authors>
+            <author>Dominique Guimbretière</author>
+            <author>Françoise Martinetti</author>
+            <author>Laurence Rolinet</author>
+            <authou>Sophie Le Callennec</authou>
+        </authors>
+        <date>02-12-2013</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>4</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">Comme les Carolingiens, les premiers Capétiens avaient peu de pouvoir. Ils exerçaient leur autorité sur le domaine royal, alors assez petit.</p>
+        <p id="2">Chaque seigneur était maître dans son domaine. Le roi ne parvenait ni à imposer son autorité ni à mettre fin aux querelles et aux guerres entre seigneurs.</p>
+        <p id="3">Les Capétiens agrandirent le domaine royal pour exercer leur influence sur un espace plus vaste.</p>
+        <p id="4">Alors que les Carolingiens distribuaient des terres aux seigneurs, les Capétiens, au contraire, récupérèrent des terres : ils les achetèrent, les obtinrent par alliances (mariages, héritages) ou les conquirent en bataillant contre les seigneurs.</p>
+        <p id="5">Dans le même temps, les Capétiens organisèrent le royaume pour en prendre le contrôle.</p>
+        <p id="6">Ils créèrent une monnaie valable dans tout le pays, puis une armée et des impôts royaux. </p>
+        <p id="7">Ils envoyèrent des baillis et des sénéchaux dans les régions pour rendre la justice, collecter les impôts et contrôler l’armée en leur nom. Ils aménagèrent Paris pour en faire une véritable capitale.</p>
+        <p id="8">Ils défendirent la France contre les pays voisins et agrandirent le pays.</p>
+        <p id="9">Ils se faisaient toujours sacrer par un évêque, pour indiquer qu’ils tenaient leur pouvoir de Dieu et étaient son représentant sur la Terre.</p>
+        <p id="10">Au XIVe siècle, les Capétiens avaient repris le contrôle de tout le royaume. Ils étaient puissants et respectés de tous : les seigneurs, les habitants de la France et les rois des royaumes voisins.</p>
+    </body>
+</document>

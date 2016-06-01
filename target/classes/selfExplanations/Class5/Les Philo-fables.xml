@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours</title>
+        <subtitle>Les Philo-fables</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Danielle Buselli</author>
+            <author>Anne-Marie Ragot</author>
+        </authors>
+        <date>14-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>5</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">Un matin qu’il marchait à travers bois, Narcisse parvint dans une clairière où il décida de se reposer.</p>
+        <p id="2">Près d’un saule, il découvrit une source. Il s’étendit pour boire et aperçut un visage si beau qu’il en tomba amoureux.</p>
+        <p id="3">Son coeur battait très fort dans sa poitrine, et il songea qu’il avait eu raison d’attendre puisqu’il avait enfin trouvé un amour digne de lui.</p>
+        <p id="4">Aveuglé par la passion, il ne comprit pas qu’il s’agissait de son propre reflet.</p>
+        <p id="5">Il lui parla, mais l’image ne répondit pas. Il approcha ses lèvres afin de l’embrasser, mais l’eau se troubla et le beau visage disparut.</p>
+        <p id="6">Il réapparut, mais chaque fois que Narcisse approchait, l’image disparaissait à nouveau.</p>
+        <p id="7">Le jeune homme devint comme fou. Se jugeant rejeté, il plongea son poignard dans sa poitrine en murmurant :</p>
+        <p id="8">Adieu, mon amour !</p>
+        <p id="9">Alors les dieux eurent pitié de voir disparaître à jamais le beau Narcisse.</p>
+        <p id="10">À l’endroit où son sang avait coulé, une fleur se mit à pousser, une fleur à laquelle on donna le nom de narcisse.</p>
+    </body>
+</document>

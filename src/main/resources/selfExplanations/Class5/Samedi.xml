@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours</title>
+        <subtitle>Samedi</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Danielle Buselli</author>
+            <author>Anne-Marie Ragot</author>
+        </authors>
+        <date>14-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>5</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="0"></pictures>
+    </meta>
+    <body>
+        <p id="1">On est arrivé hier soir. Il faisait noir. Ce matin le jardin est vert et il y a des framboises rouges.</p>
+        <p id="2">Ma chambre est petite avec une fenêtre pointue.</p>
+        <p id="3">Pour voir la mer je monte sur une chaise.</p>
+        <p id="4">Il y a deux chaises dans ma chambre.</p>
+        <p id="5">Une, je la garde pour toi. Personne n‛aura le droit de s‛asseoir dessus, sauf toi.</p>
+        <p id="6">J‛espère que tu vas venir en août.</p>
+        <p id="7">Sans toi je suis triste, malgré les vacances.</p>
+        <p id="8">J‛ai mis ta photo sur ma table.</p>
+    </body>
+</document>

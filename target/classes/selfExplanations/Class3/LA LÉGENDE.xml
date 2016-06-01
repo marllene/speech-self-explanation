@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>facettes FRANÇAIS</title>
+        <subtitle>LA LÉGENDE</subtitle>
+        <authors>
+            <author>Michèle Schöttke</author>
+            <author>François Tournaire</author>
+        </authors>
+        <date>15-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>3</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="0"></pictures>
+    </meta>
+    <body>
+        <p id="1">Il y a plusieurs milliers d’années en Grèce*, une créature effrayante vivait dans le marais de Lerne. L’hydre possédait sept têtes de serpent.</p>
+        <p id="2">Chaque tête crachait un poison mortel. Et lorsqu’on en coupait une, il en repoussait deux à la place, encore plus dangereuses.</p>
+        <p id="3">Le héros Héraclès fut chargé de débarrasser la région de l’hydre.</p>
+        <p id="4">Héraclès coupa chaque tête et son cousin Iolaos brûla chaque cou pour éviter que d’autres têtes ne repoussent. C’est ainsi que les deux héros gagnèrent le combat contre le monstre.</p>
+        <p id="5">À partir de ce grand jour, le pays n’eut plus rien à craindre de l’hydre. Son corps disparut dans le marais à tout jamais.</p>
+    </body>
+</document>

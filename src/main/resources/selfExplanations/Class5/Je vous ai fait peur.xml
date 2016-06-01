@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours</title>
+        <subtitle>Je vous ai fait peur ?</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Danielle Buselli</author>
+            <author>Anne-Marie Ragot</author>
+        </authors>
+        <date>14-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>5</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">Jacques et Antoine préparent une chasse aux coyotes.</p>
+        <p id="2">À voix basse, on discuta longuement du plan d’attaque : d’abord, on franchirait la rivière à la nage après nous être dévêtus et avoir attaché nos vêtements et nos armes sur notre tête.</p>
+        <p id="3">Mais Jacques remarqua que la Briance étant presque à sec en cette saison, il nous suffirait d’ôter nos sandales et de tenir nos armes à la main.</p>
+        <p id="4">Une fois sur l’autre berge, nous encerclerions les coyotes et nous les massacrerions impitoyablement jusqu’au dernier.</p>
+        <p id="5">Puis nous rentrerions au village, ensanglantés, couverts de morsures et de gloire, et les hommes nous serreraient virilement la main, et les femmes pleureraient de joie pendant que les petits se suspendraient à nos jambes…</p>
+        <p id="6">Nous en étions là lorsque Jacques fit observer que le soleil avait disparu depuis un bon moment.</p>
+        <p id="7">Jacques était à quelques minutes de chez lui mais j’avais un bon quart d’heure de marche jusqu’à la ferme de mon oncle.</p>
+        <p id="8">Prends le raccourci du Gabaret ! me cria Jacques en s’élançant de son côté. Tu gagneras cinq minutes !</p>
+        <p id="9">Tout en trottant, je surveillais l’ouest où subsistait une mince bande de ciel rose pâle.</p>
+        <p id="10">Et surtout, rentre avant la nuit !  me sermonnait quotidiennement tante Mine.</p>
+        <p id="11">En jouant sur les mots, j’éviterais peut-être ses remontrances : dans dix minutes, un quart d’heure au plus tard, il ferait encore clair.</p>
+        <p id="12">J’avais compté sans les imprévus.</p>
+    </body>
+</document>

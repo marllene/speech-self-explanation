@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours</title>
+        <subtitle>C’est bien de lire un livre qui fait peur</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Danielle Buselli</author>
+            <author>Anne-Marie Ragot</author>
+        </authors>
+        <date>14-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>5</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">On est dans sa chambre, c’est l’hiver. Les volets sont bien fermés. On entend le vent qui souffle au dehors. Les parents sont allés se coucher, eux-aussi.Ils croient qu’on a éteint depuis longtemps.</p>
+        <p id="2">Mais on n’a vraiment pas envie de dormir. On a juste gardé la petite lampe de chevet qui fait un cercle jusqu’au milieu des couvertures. Au-delà, l’obscurité de la chambre est de plus en plus mystérieuse.</p>
+        <p id="3">On a hésité longtemps avant de choisir le livre. […]</p>
+        <p id="4">Finalement on a choisi L’Ile au trésor.</p>
+        <p id="5">On a bien fait. Dès le début du livre, il y a une ambiance extraordinaire, avec cette auberge près d’une falaise.</p>
+        <p id="6">C’est toujours la tempête là-bas ; on a l’impression que c’est toujours la nuit aussi, avec la mer qui gronde tout près. Et puis Jim Hawkins, le héros, se retrouve vite seul avec sa mère, à l’Amiral Benbow</p>
+        <p id="7">À sa place, on serait mort de terreur. Le vieux pirate réclame du rhum et se met en colère sans qu’on sache pourquoi.</p>
+        <p id="8">Mais le plus effrayant, c’est quand les autres pirates débarquent dans le pays à la recherche de leur ancien complice. C’est une nuit de pleine lune, et l’aveugle donne des coups de canne sur la route blanche en criant :</p>
+        <p id="9">N’abandonnez pas le vieux Pew, camarades ! Pas le vieux Pew !</p>
+        <p id="10">Il y a une illustration en couleurs avec cette image, du noir, du mauve, du blanc.</p>
+        <p id="11">C’est un livre un peu vieux, avec seulement quelques images – il n’y en aura pas d’autres avant au moins trente pages. On reste longtemps à regarder celle-là.</p>
+        <p id="12">Parfois, quand on s’endort, on a peur de devenir aveugle pendant la nuit, alors on se met dans la peau du vieux Pew – et c’est étrange, parce qu’en même temps on a peur qu’il vous donne un coup de canne.</p>
+        <p id="13">Heureusement, près de soi, on a la petite lumière bleue du radio-réveil et le poster de A-Ha, mais on a l’impression qu’ils sont partis en Angleterre eux aussi, au pays du rhum, de la colère et des naufrages.</p>
+        <p id="14">C’est dangereux de s’endormir là-bas, mais on voudrait quand même – on dort si bien près du danger, et les draps sont si chauds près de la pluie.</p>
+        <p id="15">C’est bien de se faire peur en lisant l’Ile au trésor.</p>
+    </body>
+</document>

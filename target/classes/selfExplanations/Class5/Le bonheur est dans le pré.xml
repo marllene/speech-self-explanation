@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours</title>
+        <subtitle>Le bonheur est dans le pré</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Danielle Buselli</author>
+            <author>Anne-Marie Ragot</author>
+        </authors>
+        <date>14-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>5</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="0"></pictures>
+    </meta>
+    <body>
+        <p id="1">Les croyances populaires s’inspirent souvent de l’observation de la nature.</p>
+        <p id="2">Ainsi, la découverte et la possession de certaines plantes peu communes sont signe de chance et promesse de bonheur.</p>
+        <p id="3">Le trèfle à quatre feuilles est renommé depuis le Moyen Âge, mais on peut également citer le muguet qui fleurit dans les sous-bois et l’edelweiss, une fleur rare qui pousse entre les rochers en haute montagne.</p>
+        <p id="4">Le passage d’une étoile filante est propice à la formulation d’un voeu.</p>
+        <p id="5">Quand la cigogne, oiseau pacifique, installe son nid sur la cheminée d’une maison, elle promet une année de paix et de bonheur au foyer.</p>
+        <p id="6">On attribue également ces vertus à l’hirondelle, dont l’arrivée annonce le printemps et symbolise le renouveau.</p>
+    </body>
+</document>

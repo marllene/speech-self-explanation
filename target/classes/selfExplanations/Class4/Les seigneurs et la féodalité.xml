@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Magellan</title>
+        <subtitle>Les seigneurs et la féodalité</subtitle>
+        <authors>
+            <author>Dominique Guimbretière</author>
+            <author>Françoise Martinetti</author>
+            <author>Laurence Rolinet</author>
+            <authou>Sophie Le Callennec</authou>
+        </authors>
+        <date>02-12-2013</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>4</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">Chaque seigneur avait un domaine dans lequel il était le maître. Il décidait à qui il confiait des terres à cultiver et quelles charges imposer en contrepartie.</p>
+        <p id="2">Il collectait les impôts et les taxes pour lui-même. Il établissait les règles que la population devait respecter. Il rendait la justice.</p>
+        <p id="3">Certains paysans de son domaine n’avaient aucune liberté, pas même celle de quitter la seigneurie. En échange de son autorité, le seigneur devait protéger la population vivant sur son domaine.</p>
+        <p id="4">Les seigneurs consacraient leur vie à la guerre.Pour protéger leurs familles, leurs biens et les populations de leur domaine, ils faisaient construire des châteaux forts : de simples maisons fortifiées, puis des châteaux de plus en plus vastes et de plus en plus solides.</p>
+        <p id="5">Ils y vivaient et, en cas d’attaque, les habitants du domaine pouvaient s’y réfugier. Quand leur domaine n’était pas en danger, les seigneurs partaient faire la guerre dans les domaines d’autres seigneurs, leurs alliés.</p>
+        <p id="6">Pour contrôler leurs vastes domaines, les seigneurs les plus puissants faisaient appel à des seigneurs plus modestes, qui devenaient leurs vassaux. Ceux-ci prêtaient serment de fidélité et, en échange, recevaient un fief.</p>
+        <p id="7">Ces vassaux eux-mêmes avaient leurs propres vassaux. Cette organisation de la société est appelée la féodalité .</p>
+        <p id="8">En établissant leur autorité sur le royaume de France, les Capétiens ont à leur tour fait des seigneurs les plus puissants leurs vassaux : ils étaient leur suzerain.</p>
+    </body>
+</document>

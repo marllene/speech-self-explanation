@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours</title>
+        <subtitle>Naufragé volontaire</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Danielle Buselli</author>
+            <author>Anne-Marie Ragot</author>
+        </authors>
+        <date>14-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>5</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="2"></pictures>
+    </meta>
+    <body>
+        <p id="1">Alain Bombard est médecin à Boulognesur- Mer quand un jour on lui amène les corps de vingt-et-un marins morts dans le naufrage de leur chalutier. Sa vie en est changée.</p>
+        <p id="2">Pour prouver qu’un naufragé peut survivre sur son canot sans autres ressources que la mer, le docteur Alain Bombard va se faire naufragé volontaire.</p>
+        <p id="3">Il fallait donc établir une ration alimentaire nécessaire et suffisante, et montrer que dans tous les cas la mer la fournissait.</p>
+        <p id="4">Or, quels sont les produits que l’on peut toujours tirer de la mer ? L’eau de mer, le poisson et le plancton.</p>
+        <p id="5">Tout d’abord, il fallait boire ; chacun sait que boire est plus important que manger ;</p>
+        <p id="6">si une dizaine de jours de diète totale sans eau conduit invariablement à la mort, il est possible de subsister une trentaine de jours sans manger, à la condition de boire de l’eau.</p>
+        <p id="7">Où trouver de l’eau douce ? J’arrivai rapidement à la conviction que le poisson allait me la fournir en quantité largement suffisante.</p>
+        <p id="8">Les tables de composition montrent que le poisson contient 50 à 80 pour 100 de son poids en eau : c’était ce liquide qui allait me sauver de la soif, car il s’agit là d’eau douce.</p>
+        <p id="9">Vous est-il déjà arrivé de consommer un poisson de mer qu’une ménagère négligente aurait oublié d’assaisonner ?</p>
+        <p id="10">Il est parfaitement fade. En fait, l’analyse allait me le montrer, la chair de poisson contient moins de sel que la chair des mammifères.</p>
+        <p id="11">Si j’arrivais à extraire le liquide, mes besoins en eau seraient assurés avec trois kilos de poisson quotidien.</p>
+        <p id="12">Le meilleur moyen d’en obtenir l’eau était d’utiliser une simple presse à fruits.</p>
+    </body>
+</document>

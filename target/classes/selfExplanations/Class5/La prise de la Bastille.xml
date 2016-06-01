@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Parcours</title>
+        <subtitle>La prise de la Bastille</subtitle>
+        <authors>
+            <author>Richard Assuied</author>
+            <author>Danielle Buselli</author>
+            <author>Anne-Marie Ragot</author>
+        </authors>
+        <date>14-01-2014</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>5</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+        <pictures no="1"></pictures>
+    </meta>
+    <body>
+        <p id="1">En cette année 1789, les Français souffrent de disette. Depuis l’été précédent, les conditions climatiques ont été très mauvaises.</p>
+        <p id="2">Parce que la France manque de grains, le prix du pain a atteint un niveau très élevé.</p>
+        <p id="3">Le 13 juillet, quand les Parisiens apprennent que des stocks de blé sont entreposés dans un couvent, la colère monte.</p>
+        <p id="4">Le couvent est pillé. Le même jour, ils s’arment avec des piques. Pour pouvoir se reconnaitre entre eux ils portent tous une cocarde rouge et bleue aux couleurs de Paris.</p>
+        <p id="5">Au matin du 14 juillet les Parisiens se rendent à l’hôtel des Invalides pour prendre des armes.</p>
+        <p id="6">Non loin de là, sur l’esplanade du Champ-de-Mars, plusieurs régiments ont établi leur campement.</p>
+        <p id="7">De façon unanime les soldats décident de ne pas marcher contre les émeutiers.</p>
+        <p id="8">La foule envahit les caves des Invalides et s’empare de fusils et de canons. Puis elle se dirige vers la forteresse de la Bastille. À la fin de l’après-midi la Bastille est prise</p>
+    </body>
+</document>

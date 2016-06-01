@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document language="fr">
+    <meta>
+        <title>Le passeur de rivière</title>
+        <authors>
+            <author>Michèle Schöttke</author>
+            <author>François Tournaire</author>
+        </authors>
+        <date>02-12-2013</date>
+        <source>Hatier, manuals</source>
+        <complexity_level>3</complexity_level>
+        <uri>http://www.editions-hatier.fr/</uri>
+    </meta>
+    <body>
+        <p id="1">Il y avait une fois un vieux pêcheur qui vivait avec sa femme au bord d’une rivière très large. Avec sa barque, le vieil homme faisait traverser des voyageurs d’une rive à l’autre. Il gagnait ainsi quelques pièces.</p>
+        <p id="2">Un jour, un loup, une chèvre et un chou se présentèrent presque en même temps pour que l’homme les mène sur l’autre rive. La barque étant petite, il ne pouvait transporter qu’un passager à la fois. Il était donc bien ennuyé !</p>
+        <p id="3">« Si je passe le loup d’abord, pensa-t-il, la chèvre va manger le chou. Mais si je passe le chou en premier, le loup va manger la chèvre ! Alors comment vais-je faire ? »</p>
+        <p id="4">La femme du passeur comprit l’embarras de son mari et lui donna de sages conseils :</p>
+        <p id="5">« Écoute, lui dit-elle, tu ne peux pas laisser la chèvre seule avec le loup ou la chèvre seule avec le chou. D’abord passe la chèvre et laisse le loup avec le chou.</p>
+        <p id="6">– Oui, mon amie, mais après ce premier passage, il faudra bien que je fasse traverser soit le loup soit le chou. Alors, le loup mangera la chèvre ou le chou sera mangé par la chèvre !</p>
+        <p id="7">– Que tu manques de jugement ! répondit la femme. Tu passes la chèvre. Puis tu passes le chou. Au retour, tu ramènes la chèvre pendant que le chou continuera seul son voyage. Ensuite, tu passes le loup qui poursuivra sa route. Alors tu reviens chercher la chèvre et tu la fais repasser sur l’autre rive, ce qu’elle voulait. Enfin, tu rentres à la maison, la soupe sera prête. »</p>
+        <p id="8">Le passeur suivit les conseils de sa femme : ni la chèvre, ni le chou ne furent mangés !</p>
+    </body>
+</document>

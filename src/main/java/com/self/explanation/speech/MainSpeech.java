@@ -19,6 +19,8 @@ package com.self.explanation.speech; /******************************************
 
 import com.self.explanation.readerbench.ReaderBenchClient;
 import com.self.explanation.readerbench.SelfExplanationPayload;
+import com.self.explanation.readerbench.SelfExplanationResult;
+import com.self.explanation.readerbench.Story;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.xml.sax.SAXException;
@@ -32,15 +34,15 @@ public class MainSpeech {
     public static void main(String[] args) throws IOException, SAXException, ParserConfigurationException {
         ApplicationContext context = new AnnotationConfigApplicationContext(SpeechSelfExplanation.class);
 
-//        Story story = new Story();
-//        story.parseXMLStoryFile(MainSpeech.class.getResource("Matilda.xml").getFile());
+        Story story = new Story();
+        story.parseXMLStoryFile(context.getResource("Matilda.xml").getFile().getAbsolutePath());
 
-//        System.out.println(story.getTitle());
-//        System.out.println(story.getAuthor());
-//        System.out.println(story.getContent());
+        System.out.println(story.getTitle());
+        System.out.println(story.getAuthor());
+        System.out.println(story.getContent());
 
         ReaderBenchClient speech = context.getBean(ReaderBenchClient.class);
-        speech.selfExplanation(new SelfExplanationPayload("lala", "Texttsts",
+        SelfExplanationResult result = speech.selfExplanation(new SelfExplanationPayload("lala", "Texttsts",
                 "lsa", "lda", "lang", true, true));
 
     }

@@ -2,513 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0227fb1-d1bb-4255-bfc1-a54734230fcb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/self/explanation/speech/MainSpeech.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/self/explanation/readerbench/ReaderBenchClient.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/self/explanation/readerbench/SelfExplanationPayload.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/self/explanation/readerbench/SelfExplanationResult$SelfExplanationData.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/self/explanation/readerbench/SelfExplanationResult$Strategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/self/explanation/readerbench/SelfExplanationResult.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/self/explanation/speech/SpeechSelfExplanation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/self/explanation/readerbench/Story.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/speech-self-explanation-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Abominable_part1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Abominable_part1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Abominable_part2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Abominable_part2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Abominable_part3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Abominable_part3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Abominable_part4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Abominable_part4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Abominable_part5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Abominable_part5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Abominable_part6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Abominable_part6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Abominable_part7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Abominable_part7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Arbre_qui_chante_part1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Arbre_qui_chante_part1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Arbre_qui_chante_part2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Arbre_qui_chante_part2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Arbre_qui_chante_part3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Arbre_qui_chante_part3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Arbre_qui_chante_part4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Arbre_qui_chante_part4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Autruchameau_part1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Autruchameau_part1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Autruchameau_part2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Autruchameau_part2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Autruchameau_part3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Autruchameau_part3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Autruchameau_part4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Autruchameau_part4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Autruchameau_part5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Autruchameau_part5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Autruchameau_part6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Autruchameau_part6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Autruchameau_part7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Autruchameau_part7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Babayaga.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Babayaga.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Cendrillon_part1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Cendrillon_part1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Cendrillon_part2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Cendrillon_part2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Colline.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Colline.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Compère Lapin et le Grand Diable.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Compère Lapin et le Grand Diable.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Contes_1_Jaguar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Contes_1_Jaguar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Contes_2_Jaguar .xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Contes_2_Jaguar .xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Cool.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Cool.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/C’est bien de lire un livre qui fait peur.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/C’est bien de lire un livre qui fait peur.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Dico Dingo.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Dico Dingo.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Douce_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Douce_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Douce_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Douce_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Douce_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Douce_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Douce_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Douce_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Douce_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Douce_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/D’un texte à l’autre.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/D’un texte à l’autre.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/D’un texte à l’autre1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/D’un texte à l’autre1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Gutenberg, le rêveur de livres.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Gutenberg, le rêveur de livres.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Harald le Courtois.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Harald le Courtois.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Harry Potter à l’école des sorciers.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Harry Potter à l’école des sorciers.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Histoire_grenouilles1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Histoire_grenouilles1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Histoire_grenouilles2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Histoire_grenouilles2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Histoire_grenouilles3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Histoire_grenouilles3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Je vous ai fait peur.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Je vous ai fait peur.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Jeanne Barret, la première femme à faire le tour du monde.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Jeanne Barret, la première femme à faire le tour du monde.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Koumba la douce et Koumba la méchante.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Koumba la douce et Koumba la méchante.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/L'avaleur de nuages.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/L'avaleur de nuages.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/LA LÉGENDE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/LA LÉGENDE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/La Couleuvrine.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/La Couleuvrine.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/La France manque d’interprètes en langue des signes.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/La France manque d’interprètes en langue des signes.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/La Parure_part1 .xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/La Parure_part1 .xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/La Parure_part2 .xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/La Parure_part2 .xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/La Parure_part3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/La Parure_part3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/La chose.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/La chose.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/La chèvre de M. Seguin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/La chèvre de M. Seguin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/La corde rouge.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/La corde rouge.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/La grammaire.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/La grammaire.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/La meilleure entraineuse de foot.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/La meilleure entraineuse de foot.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/La meilleure entraîneuse de foot.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/La meilleure entraîneuse de foot.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/La mystérieuse bibliothécaire.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/La mystérieuse bibliothécaire.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/La naissance du royaume de France.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/La naissance du royaume de France.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/La plage.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/La plage.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/La plus belle main du monde.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/La plus belle main du monde.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/La prise de la Bastille.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/La prise de la Bastille.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/La queue du loup.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/La queue du loup.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/La rivière à l’envers.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/La rivière à l’envers.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/La ruse du jaguar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/La ruse du jaguar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Le Bon Gros Géant.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Le Bon Gros Géant.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Le Chat qui parlait malgré lui.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Le Chat qui parlait malgré lui.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Le Golfe de Candaâ_part1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Le Golfe de Candaâ_part1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Le Golfe de Candaâ_part2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Le Golfe de Candaâ_part2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Le Golfe de Candaâ_part3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Le Golfe de Candaâ_part3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Le Golfe de Candaâ_part4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Le Golfe de Candaâ_part4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Le Golfe de Candaâ_part5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Le Golfe de Candaâ_part5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Le Golfe de Candaâ_part6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Le Golfe de Candaâ_part6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Le Golfe de Candaâ_part7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Le Golfe de Candaâ_part7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Le Golfe de Candaâ_part8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Le Golfe de Candaâ_part8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Le Mystère des grottes oubliées.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Le Mystère des grottes oubliées.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Le Petit Poucet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Le Petit Poucet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Le Vieux Fou de dessin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Le Vieux Fou de dessin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Le bonheur est dans le pré.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Le bonheur est dans le pré.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Le chat qui allait son chemin tout seul.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Le chat qui allait son chemin tout seul.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Le conte pressé.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Le conte pressé.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Le cow-boy menteur.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Le cow-boy menteur.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Le développement du royaume de France.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Le développement du royaume de France.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Le jeune yéti et le feu.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Le jeune yéti et le feu.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Le joueur de flute de Hamelin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Le joueur de flute de Hamelin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Le joueur de flûte de Hamelin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Le joueur de flûte de Hamelin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Le mouchoir magique.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Le mouchoir magique.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Le passeur de riviere.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Le passeur de riviere.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Le passeur de rivière.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Le passeur de rivière.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Le petit chevalier à l’armure étincelante.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Le petit chevalier à l’armure étincelante.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Le privé en a plein les pattes.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Le privé en a plein les pattes.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Le renard et le tambour.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Le renard et le tambour.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Le roman de l’écriture.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Le roman de l’écriture.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Le rôle de l’Église au Moyen Âge.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Le rôle de l’Église au Moyen Âge.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Le soulier de la princesse.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Le soulier de la princesse.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Le trésor des deux chouettes.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Le trésor des deux chouettes.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Les Ailes de courage.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Les Ailes de courage.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Les Mémoires d’une vache.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Les Mémoires d’une vache.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Les Philo-fables.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Les Philo-fables.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Les animaux qui hibernent.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Les animaux qui hibernent.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Les baguettes d’ivoire.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Les baguettes d’ivoire.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Les chevaliers.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Les chevaliers.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Les contes de la Folie Méricourt.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Les contes de la Folie Méricourt.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Les fées.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Les fées.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Les ours blancs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Les ours blancs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Les petits miroirs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Les petits miroirs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Les seigneurs et la féodalité.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Les seigneurs et la féodalité.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Les villes au Moyen Âge.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Les villes au Moyen Âge.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Lettres.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Lettres.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Leur rencontre.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Leur rencontre.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Louis Rene Villerme.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Louis Rene Villerme.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/L’aire du Muguet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/L’aire du Muguet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/L’enfant des cèdres.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/L’enfant des cèdres.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/L’enfant et la rivière.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/L’enfant et la rivière.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/L’estomac.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/L’estomac.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/L’hirondelle qui fit le printemps.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/L’hirondelle qui fit le printemps.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/L’homme qui plantait des arbres.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/L’homme qui plantait des arbres.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/L’invité des CE2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/L’invité des CE2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/self/explanation/speech/MainSpeech.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Maisons d’ailleurs racontées aux enfants d’ici.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Maisons d’ailleurs racontées aux enfants d’ici.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Malices_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Malices_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Malices_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Malices_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Malices_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Malices_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Malices_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Malices_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Manger à travers les âges.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Manger à travers les âges.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Maradja et la pierre précieuse.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Maradja et la pierre précieuse.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Mardi.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Mardi.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Matilda.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Matilda.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_7_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_7_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_7_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_2_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_collections_google_collections_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_10_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_api_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__edu_cmu_sphinx_sphinx4_core_5prealpha_SNAPSHOT.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__edu_cmu_sphinx_sphinx4_data_5prealpha_SNAPSHOT.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_jsr250_api_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_enterprise_cdi_api_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_aether_provider_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_archiver_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_manager_2_0_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_core_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_builder_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_registry_2_0_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_profile_2_0_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_project_2_0_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_settings_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_settings_builder_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_shared_maven_common_artifact_filters_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_shared_maven_shared_utils_0_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_provider_api_1_0_beta_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xbean_xbean_reflect_3_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_archiver_2_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_classworlds_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_component_annotations_1_5_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_container_default_1_5_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_io_2_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_3_0_20.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_api_0_9_0_M2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_impl_0_9_0_M2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_spi_0_9_0_M2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_util_0_9_0_M2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_sisu_org_eclipse_sisu_inject_0_0_0_M5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_sisu_org_eclipse_sisu_plexus_0_0_0_M5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_plexus_plexus_cipher_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_plexus_plexus_sec_dispatcher_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_guice_no_aop_3_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_3_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_4_0_BUILD_SNAPSHOT.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_3_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_4_0_BUILD_SNAPSHOT.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_loader_tools_1_3_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_maven_plugin_1_3_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_1_3_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Maxime des neiges.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Maxime des neiges.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Naufragé volontaire.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Naufragé volontaire.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Partie de cartes.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Partie de cartes.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Perdue sur Mayabora.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Perdue sur Mayabora.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Prince_Blub_part1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Prince_Blub_part1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Prince_Blub_part2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Prince_Blub_part2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Prince_Blub_part3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Prince_Blub_part3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Puddlegum, le touille-marais.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Puddlegum, le touille-marais.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/self/explanation/readerbench/ReaderBenchClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Regarder ses billes.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Regarder ses billes.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Sacrées sorcières.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Sacrées sorcières.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Samedi.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Samedi.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/self/explanation/readerbench/SelfExplanationPayload.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/self/explanation/readerbench/SelfExplanationResult.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Soupçon.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Soupçon.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Souvenirs d’écrivains.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Souvenirs d’écrivains.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/self/explanation/speech/SpeechSelfExplanation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/self/explanation/readerbench/Story.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class4/Ulysse et le cyclope.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class4/Ulysse et le cyclope.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Un Lascaux englouti refait surface !.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Un Lascaux englouti refait surface !.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Un cheval de rêve.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Un cheval de rêve.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Un enfant d’éléphant bien curieux.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Un enfant d’éléphant bien curieux.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Un repas en Inde.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Un repas en Inde.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Un Été entre deux feux.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Un Été entre deux feux.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/UnChienContreLesLoups1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/UnChienContreLesLoups1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/UnChienContreLesLoups2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/UnChienContreLesLoups2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/UnChienContreLesLoups3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/UnChienContreLesLoups3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/UnChienContreLesLoups4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/UnChienContreLesLoups4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class3/Une suite humoristique.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class3/Une suite humoristique.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class5/Visions d’un jardin ordinaire.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class5/Visions d’un jardin ordinaire.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class2/ce1-Jacques_haricot-magique.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class2/ce1-Jacques_haricot-magique.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class2/ce1-abominaffreux.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class2/ce1-abominaffreux.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class2/ce1-au bord de leau.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class2/ce1-au bord de leau.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class2/ce1-basile.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class2/ce1-basile.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class2/ce1-boucle_d_or.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class2/ce1-boucle_d_or.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class2/ce1-l_autruche.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class2/ce1-l_autruche.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class2/ce1-la girafe.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class2/ce1-la girafe.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class2/ce1-la panthere.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class2/ce1-la panthere.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class2/ce1-la vie chez les sioux.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class2/ce1-la vie chez les sioux.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class2/ce1-la-rentree.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class2/ce1-la-rentree.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class2/ce1-le coquillage.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class2/ce1-le coquillage.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class2/ce1-le crocodile.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class2/ce1-le crocodile.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class2/ce1-le loup et la mouche.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class2/ce1-le loup et la mouche.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class2/ce1-les mouettes.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class2/ce1-les mouettes.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class2/ce1-loup_sept_chevreaux.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class2/ce1-loup_sept_chevreaux.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class2/ce1-maxime_loupiot.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class2/ce1-maxime_loupiot.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class2/ce1-panique a la ferme.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class2/ce1-panique a la ferme.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class2/ce1-petit_pierre.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class2/ce1-petit_pierre.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class2/ce1-petit_pierre1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class2/ce1-petit_pierre1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class2/ce1-petit_sapin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class2/ce1-petit_sapin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class2/ce1-petite marmotte.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class2/ce1-petite marmotte.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class2/ce1-soupe_au_caillou.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class2/ce1-soupe_au_caillou.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class2/ce1-trois_petits_cochons.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class2/ce1-trois_petits_cochons.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-a_la_plage.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-a_la_plage.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-a_trois_on_a_moins-froid.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-a_trois_on_a_moins-froid.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-au_parc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-au_parc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-brosse_savon.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-brosse_savon.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-chanelle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-chanelle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-chante_pinson.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-chante_pinson.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-en_recreation.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-en_recreation.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-foufours_pays_du_miel.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-foufours_pays_du_miel.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-gouter_de_julien.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-gouter_de_julien.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-hippopotame.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-hippopotame.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-histoire_cameleon.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-histoire_cameleon.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-histoire_sombre.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-histoire_sombre.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-les_epinards.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-les_epinards.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-lheure_du_the.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-lheure_du_the.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-lion.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-lion.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-melo.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-melo.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-melo_livre.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-melo_livre.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-milou_fido.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-milou_fido.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-non_non_et_non.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-non_non_et_non.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-petit_bleu_petit_jaune.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-petit_bleu_petit_jaune.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-petit_gorille_aimait_pas_bananes.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-petit_gorille_aimait_pas_bananes.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-pipolu_orage.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-pipolu_orage.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-planète_en_danger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-planète_en_danger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-printemps.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-printemps.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-roule_galette.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-roule_galette.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-serpent.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-serpent.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-toi_et_moi_petit_ours.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-toi_et_moi_petit_ours.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-toutes_les_couleurs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-toutes_les_couleurs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-un_depart_mouvemente.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-un_depart_mouvemente.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-zebre.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/selfExplanations/Class1/cp-zebre.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/speech-self-explanation.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MANIFEST.MF" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/self/explanation/speech/MainSpeech.class" afterPath="$PROJECT_DIR$/target/classes/com/self/explanation/speech/MainSpeech.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/self/explanation/readerbench/SelfExplanationResult$SelfExplanationData.class" afterPath="$PROJECT_DIR$/target/classes/com/self/explanation/readerbench/SelfExplanationResult$SelfExplanationData.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/self/explanation/readerbench/SelfExplanationResult$Strategy.class" afterPath="$PROJECT_DIR$/target/classes/com/self/explanation/readerbench/SelfExplanationResult$Strategy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/self/explanation/readerbench/SelfExplanationResult.class" afterPath="$PROJECT_DIR$/target/classes/com/self/explanation/readerbench/SelfExplanationResult.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/speech-self-explanation-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/speech-self-explanation-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/self/explanation/speech/MainSpeech.java" afterPath="$PROJECT_DIR$/src/main/java/com/self/explanation/speech/MainSpeech.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/self/explanation/readerbench/SelfExplanationResult.java" afterPath="$PROJECT_DIR$/src/main/java/com/self/explanation/readerbench/SelfExplanationResult.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="speech-self-explanation.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -535,14 +38,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainSpeech.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainSpeech.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/self/explanation/speech/MainSpeech.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="356" max-vertical-offset="840">
-              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.096045196" vertical-offset="339" max-vertical-offset="870">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -550,7 +51,7 @@
       <file leaf-file-name="SpeechSelfExplanation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/self/explanation/speech/SpeechSelfExplanation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="480">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
               <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -562,10 +63,11 @@
       <file leaf-file-name="ReaderBenchClient.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/self/explanation/readerbench/ReaderBenchClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="780">
-              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="296" max-vertical-offset="780">
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#930#938#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -574,17 +76,17 @@
       <file leaf-file-name="SelfExplanationResult.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/self/explanation/readerbench/SelfExplanationResult.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="112" max-vertical-offset="960">
-              <caret line="61" column="28" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1110">
+              <caret line="64" column="19" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5202312" vertical-offset="0" max-vertical-offset="1800">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="270" max-vertical-offset="1800">
               <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
               <folding />
             </state>
@@ -614,8 +116,8 @@
       <file leaf-file-name="Story.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/self/explanation/readerbench/Story.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="990">
-              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="341" max-vertical-offset="990">
+              <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -626,18 +128,8 @@
       <file leaf-file-name="Matilda.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/Matilda.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="810">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
               <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cp-toi_et_moi_petit_ours.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-toi_et_moi_petit_ours.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -669,9 +161,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/self/explanation/speech/SpeechSelfExplanation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/self/explanation/readerbench/ReaderBenchClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/self/explanation/speech/MainSpeech.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/self/explanation/readerbench/SelfExplanationResult.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/com/self/explanation/readerbench/SelfExplanationResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/self/explanation/speech/MainSpeech.java" />
       </list>
     </option>
   </component>
@@ -760,8 +252,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -880,8 +370,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="speech-self-explanation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="speech-self-explanation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sphinx4-5prealpha-src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -896,10 +402,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
-    <property name="options.lastSelected" value="reference.settings.project.maven.runner" />
+    <property name="options.lastSelected" value="android.dex.compiler" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="true" />
@@ -1302,49 +808,50 @@
       <workItem from="1464622074720" duration="1570000" />
       <workItem from="1464721271550" duration="3224000" />
       <workItem from="1464771787892" duration="193000" />
-      <workItem from="1464792088605" duration="678000" />
+      <workItem from="1464792088605" duration="817000" />
+      <workItem from="1465048758566" duration="2885000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17486000" />
+    <option name="totallyTimeSpent" value="20510000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1680" height="971" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1680" height="971" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32942554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39976552" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IvyIDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1978022" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32942554" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel remote servers log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39976552" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1978022" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39976552" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1373,30 +880,6 @@
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/self/explanation/speech/SpeechSelfExplanation.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/self/explanation/speech/MainSpeech.java</url>
-          <line>34</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/self/explanation/speech/MainSpeech.java</url>
-          <line>41</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/self/explanation/readerbench/ReaderBenchClient.java</url>
-          <line>34</line>
-          <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
       </breakpoints>
       <option name="time" value="11" />
     </breakpoint-manager>
@@ -1407,39 +890,13 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/selfExplanations/Class1/cp-un_depart_mouvemente.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/self/explanation/speech/MainSpeech.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="585">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/self/explanation/speech/SpeechSelfExplanation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="375">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/self/explanation/readerbench/ReaderBenchClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="735">
           <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#930#938#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1505,9 +962,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="405">
           <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1517,6 +972,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#930#938#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1572,9 +1028,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1726,24 +1180,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Matilda.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="810">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/self/explanation/readerbench/Story.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="990">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="577" max-vertical-offset="1290">
@@ -1759,10 +1195,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/self/explanation/readerbench/SelfExplanationPayload.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="900">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1800">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/self/explanation/readerbench/SelfExplanationResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1110">
+          <caret line="64" column="19" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -1777,38 +1221,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/self/explanation/speech/MainSpeech.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/self/explanation/readerbench/SelfExplanationPayload.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="356" max-vertical-offset="840">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="900">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.5.RELEASE/spring-web-4.2.5.RELEASE.jar!/org/springframework/http/HttpHeaders.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7875">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33264464" vertical-offset="6199" max-vertical-offset="32040">
+          <caret line="487" column="0" selection-start-line="487" selection-start-column="0" selection-end-line="487" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/self/explanation/readerbench/ReaderBenchClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="780">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="296" max-vertical-offset="780">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#930#938#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Matilda.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.5.RELEASE/spring-core-4.2.5.RELEASE.jar!/org/springframework/core/io/Resource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.56" vertical-offset="41" max-vertical-offset="525">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/self/explanation/readerbench/Story.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="341" max-vertical-offset="990">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/self/explanation/readerbench/SelfExplanationResult.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/self/explanation/speech/MainSpeech.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="112" max-vertical-offset="960">
-          <caret line="61" column="28" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5202312" vertical-offset="0" max-vertical-offset="1800">
-          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.096045196" vertical-offset="339" max-vertical-offset="870">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>

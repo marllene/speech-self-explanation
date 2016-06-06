@@ -33,11 +33,16 @@ public class SelfExplanationResult {
         this.errorMsg = errorMsg;
     }
 
-    class SelfExplanationData{
+    private static class SelfExplanationData{
         private String selfExplanationColored;
         private List<Strategy> strategies;
 
         public SelfExplanationData() {
+        }
+
+        public SelfExplanationData(String selfExplanationColored, List<Strategy> strategies) {
+            this.selfExplanationColored = selfExplanationColored;
+            this.strategies = strategies;
         }
 
         public String getSelfExplanationColored() {
@@ -57,11 +62,16 @@ public class SelfExplanationResult {
         }
     }
 
-    class Strategy{
+    private static class Strategy{
         private String name;
         private float score;
 
         public Strategy() {
+        }
+
+        public Strategy(String name, float score) {
+            this.name = name;
+            this.score = score;
         }
 
         public String getName() {

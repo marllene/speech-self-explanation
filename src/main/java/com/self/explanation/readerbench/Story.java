@@ -1,6 +1,5 @@
 package com.self.explanation.readerbench;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.w3c.dom.Document;
 import org.w3c.dom.NodeList;
@@ -15,15 +14,13 @@ import java.io.IOException;
 @Component
 public class Story {
 
-    @Autowired
-    ReaderBenchClient readerBenchClient;
-
     private String title;
     private String author;
     private String content;
 
 
     public void parseXMLStoryFile(String filename) throws ParserConfigurationException, IOException, SAXException {
+        content = "";
         DocumentBuilderFactory factory =
                 DocumentBuilderFactory.newInstance();
         DocumentBuilder builder = factory.newDocumentBuilder();
@@ -37,13 +34,6 @@ public class Story {
         for(int i = 0; i < nodeList.getLength(); i++){
             content += nodeList.item(i).getTextContent();
         }
-    }
-
-
-    public void callReaderBench(){
-        readerBenchClient.selfExplanation(new SelfExplanationPayload("lallala", "kakkakaka",
-                "lsa", "lda", "lang", true, true));
-
     }
 
     public String getTitle() {

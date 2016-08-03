@@ -23,4 +23,9 @@ public class SpeechSelfExplanation {
     ReaderBenchClient selfExplanation(RestTemplate restTemplate){
         return new ReaderBenchClient(restTemplate, READER_BENCH_ENDPOINT);
     }
+
+    @Bean
+    BaselineTextCorpus baselineTextCorpus(){
+        return new BaselineTextCorpus();
+    }
 }

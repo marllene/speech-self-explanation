@@ -33,7 +33,7 @@ public class SelfExplanationResult {
         this.errorMsg = errorMsg;
     }
 
-    private static class SelfExplanationData{
+    public static class SelfExplanationData{
         private String selfExplanationColored;
         private List<Strategy> strategies;
 
@@ -62,7 +62,7 @@ public class SelfExplanationResult {
         }
     }
 
-    private static class Strategy{
+    public static class Strategy{
         private String name;
         private float score;
 
